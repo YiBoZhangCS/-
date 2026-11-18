@@ -1,0 +1,5156 @@
+{
+  "10672": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "5493": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "4187": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1681": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2028": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "10453": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "5221": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "5425": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "1460": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "8396": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "1653": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "1742": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "6909": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "2425": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "2481": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "2797": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "3151": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "8929": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "3898": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "10188": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "2215": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "5829": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "2418": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "4733": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "11121": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "1096": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "1413": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "8383": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "1711": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "11229": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "2457": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "11329": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4344": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "7451": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "3859": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "5484": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "962": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "1180": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "676": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3662": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "6521": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "9816": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "1202": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1520": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "1666": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "7749": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "1980": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "2821": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "3043": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "4965": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "6466": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "9802": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "7584": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "1311": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "1538": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1740": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4298": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "1872": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5748": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "9044": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "2834": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "7980": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "3494": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "2523": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2370": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2859": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "2970": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "8174": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "3077": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "3097": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5818": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "7462": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "1030": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "6384": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "433": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "8849": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "3667": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "5351": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "1243": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "7669": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1305": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "1535": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "4081": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "7730": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "4477": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2751": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3517": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "2820": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4692": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ]
+  ],
+  "4086": [
+    [
+      "Accuracy",
+      "知识准确率"
+    ],
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "5082": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "5046": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "8855": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "3588": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "355": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "994": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "1206": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "5567": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "6905": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "2495": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "4654": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "9927": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "8025": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "4706": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "4963": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "11068": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "877": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "1441": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "1487": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4467": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "4631": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "7371": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "6674": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1670": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "6895": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "8553": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "6111": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "2967": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "8610": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "8753": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "3963": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "3996": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "11279": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "3939": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "5884": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "2915": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "10595": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "9758": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "5527": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "1262": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1902": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "5821": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "11051": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "5327": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "3707": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "2368": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "9544": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "5948": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "5895": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4740": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "3945": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2241": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "7724": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "348": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "7819": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "3938": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "37": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "1161": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2010": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "11065": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "549": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ]
+  ],
+  "5556": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10261": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1595": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "4215": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "4667": [
+    [
+      "Exposure",
+      "知识曝光度"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "766": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "9321": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "2196": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "3090": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "408": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "5323": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "3840": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "5648": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "9392": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "8760": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "327": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "5496": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "11359": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "8644": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "422": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "277": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "8845": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "5171": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "4412": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "2263": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "4490": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "5887": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "2774": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "3404": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "5180": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "3580": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "918": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4239": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "11300": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "10318": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "1466": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "1499": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10385": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "2441": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "7521": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "6891": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "1362": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "6582": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "245": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "5170": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "7634": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "2884": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4658": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "7197": [
+    [
+      "Hallucination",
+      "知识幻觉性"
+    ]
+  ],
+  "332": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "4020": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "1765": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "4270": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "4368": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "2103": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "10149": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "9259": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "1588": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "1678": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "5802": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "4737": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3886": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "1013": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "3950": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "2744": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3495": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "3353": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "967": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1136": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "4194": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "9843": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "1918": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "7793": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "8514": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "3149": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "6345": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "455": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1401": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "8409": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "8386": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "10810": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "8457": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "3027": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "4186": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "677": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "9736": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "1285": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "6759": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "2692": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "2683": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "9746": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "10283": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "2398": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "4725": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "2810": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "6802": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "1446": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "9340": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "8621": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "7374": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "7314": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "3058": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "279": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "1186": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "4345": [
+    [
+      "Behavior",
+      "行为一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "6955": [
+    [
+      "Behavior",
+      "行为一致性"
+    ]
+  ],
+  "6532": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "6488": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "1690": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "3388": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "9434": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "5946": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "9078": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "357": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "3839": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1679": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "9394": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "4498": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "32": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "1468": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "1674": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "9568": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "3164": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "10630": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "958": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "3908": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "4190": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "2005": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "2649": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "7060": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3144": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "312": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "8840": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "1187": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5693": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4722": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "2865": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10896": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "82": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "3593": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5410": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "9053": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "2388": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "4962": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "10695": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "6347": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "4048": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "1340": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "2137": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "3023": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "10829": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "629": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "10668": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "1754": [
+    [
+      "Utterance",
+      "言语一致性"
+    ],
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "6934": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "4911": [
+    [
+      "Utterance",
+      "言语一致性"
+    ]
+  ],
+  "158": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "10622": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "9879": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "3472": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "541": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "8888": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "6707": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "7816": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "9345": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1222": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4182": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "5922": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "7083": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "4848": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "5080": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "5533": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "6767": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "4353": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "3312": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "7399": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "725": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "2070": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "4540": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "4618": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "9514": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "11100": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "5227": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "7595": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "1622": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "1608": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "1981": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "2224": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "2349": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "4923": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "9531": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "4352": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "9243": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4420": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "3889": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "5432": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "4756": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "5382": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "3710": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "592": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4929": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "4703": [
+    [
+      "Coherence",
+      "对话连贯性"
+    ]
+  ],
+  "3681": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "5929": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "8711": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "8878": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "10664": [
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3298": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "19": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "8613": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "4979": [
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "3934": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "8808": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "10789": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "9240": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "699": [
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "10310": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "8919": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "9605": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "2509": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "5723": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "239": [
+    [
+      "Fluency",
+      "对话流利度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "8238": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "590": [
+    [
+      "Fluency",
+      "对话流利度"
+    ]
+  ],
+  "10014": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "7504": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "7054": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "2556": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "7997": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "8601": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "8634": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "9128": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "4274": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "4562": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "9894": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "6232": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "7125": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "700": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "6652": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "972": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "1380": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "1996": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "9459": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "2616": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "9676": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "9853": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "11284": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "2653": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "4831": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "8199": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "3631": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "7626": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "1542": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "6776": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "7799": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "9041": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "3131": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3792": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "1846": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "4103": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "3457": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "5977": [
+    [
+      "Consistency",
+      "对话一致性"
+    ],
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "8523": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "1246": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "218": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "5736": [
+    [
+      "Consistency",
+      "对话一致性"
+    ]
+  ],
+  "7280": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "8073": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "10176": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "6079": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "4232": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "7678": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "2427": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "7158": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10442": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "685": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "3599": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1652": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "2257": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "11288": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "6411": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "3887": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "3885": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "3899": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "9852": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "4220": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "11238": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "2332": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "4724": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "4686": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "5073": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "10687": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "6761": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "6772": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "4243": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4486": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "8555": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1400": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4837": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "2203": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "121": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "8953": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "9844": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ]
+  ],
+  "6863": [
+    [
+      "Humanlikeness",
+      "类人程度"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "5405": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "9376": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "2996": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "235": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "3646": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "7662": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5814": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "2654": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "2835": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "451": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "1360": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "4211": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "2319": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "8654": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "8267": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "1223": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "6702": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "10301": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "2790": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "7128": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "7168": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "7300": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "9139": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "10114": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "7691": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1217": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "9929": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "9928": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "799": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "10150": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5519": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "4709": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "3094": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "9845": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5762": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5500": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "5459": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "844": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "1665": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5528": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "6679": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "5863": [
+    [
+      "Communication_skills",
+      "交流技巧"
+    ]
+  ],
+  "7304": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "523": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "6538": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "5510": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1594": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "5077": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "11202": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "8525": [
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3561": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1352": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "5841": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4446": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "6129": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "9657": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1537": [
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "9065": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1083": [
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10730": [
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10267": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1781": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4455": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4534": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "6065": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "4750": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "6388": [
+    [
+      "Diversity",
+      "表现多样性"
+    ],
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "3847": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "10191": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "10130": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "5772": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "1214": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "9724": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "6580": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "11018": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "9113": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "2312": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "5749": [
+    [
+      "Diversity",
+      "表现多样性"
+    ]
+  ],
+  "3": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "9312": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "8759": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "8388": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1738": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10779": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4284": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4573": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10591": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "9915": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "5499": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1113": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1518": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2126": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10876": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "7731": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4482": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10337": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "9505": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "9147": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "11146": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "871": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2244": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2226": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1452": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "5592": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "7655": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "7909": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "2148": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "5068": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "463": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "1265": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "10042": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ],
+  "4496": [
+    [
+      "Empathy",
+      "共情度"
+    ]
+  ]
+}
