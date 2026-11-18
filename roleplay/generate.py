@@ -96,6 +96,7 @@ def args_parser():
     p.add_argument("--price-in", type=float, required=True, help="Verified USD per million input tokens")
     p.add_argument("--price-out", type=float, required=True, help="Verified USD per million output tokens")
     p.add_argument("--budget", type=float, default=25, help="Maximum estimated USD for this run")
+    p.add_argument("--global-budget", type=float, default=100, help="Cap across ALL roleplay runs")
     p.add_argument("--dry-run", action="store_true")
     return p.parse_args()
 
@@ -104,7 +105,7 @@ def main():
     args = args_parser()
     if not args.base_url.startswith("https://"):
         raise SystemExit("Only verified HTTPS API addresses are allowed; HTTP exposes your secret.")
-    if min(args.price_in, args.price_out) < 0 or args.budget <= 0:
+    if min(args.price_in, args.price_out) <= 0 or args.budget <= 0 or args.global_budget <= 0:
         raise SystemExit("Bad unit prices or budget")
     if not re.fullmatch(r"[A-Za-z0-9_.-]+", args.run_id):
         raise SystemExit("Invalid --run-id")
@@ -115,7 +116,9 @@ def main():
     manifest = {
         "model": args.model, "api_mode": args.api_mode,
         "strategy": args.strategy, "seed": args.seed, "limit": args.limit,
-        "max_output_tokens": args.max_output_tokens, "price_in": args.price_in,
+        "max_output_tokens": args.max_output_tokens, "token_param": args.token_param,
+        "reasoning_effort": args.reasoning_effort, "temperature": args.temperature,
+        "price_in": args.price_in,
         "price_out": args.price_out, "budget": args.budget,
         "sha256_test": hashlib.sha256((DATA_DIR / "test_data.jsonl").read_bytes()).hexdigest(),
     }
@@ -137,6 +140,13 @@ def main():
                     raise SystemExit("Duplicate ID in resume log")
                 done[key] = record
                 charged += float(record["estimated_usd"])
+    global_charged = 0.0
+    for old_log in OUT_DIR.glob("*/responses.jsonl"):
+        for line in old_log.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                global_charged += float(json.loads(line)["estimated_usd"])
+    if global_charged > args.global_budget:
+        raise SystemExit("Global spending limit already exceeded; no further requests")
     if args.dry_run:
         full_bytes = sum(sum(len(v["content"].encode("utf-8")) for v in
                              messages(x, profiles[x["role"]], args.strategy)) for x in selected)
@@ -156,7 +166,7 @@ def main():
         max_in = sum(len(x["content"].encode("utf-8")) for x in msg)
         reserved = (max_in * args.price_in +
                     args.max_output_tokens * args.price_out) / 1_000_000
-        if charged + reserved > args.budget:
+        if charged + reserved > args.budget or global_charged + reserved > args.global_budget:
             raise SystemExit(f"BUDGET STOP before ID {rid}. Spent USD {charged:.4f}, "
                              f"next reservation USD {reserved:.4f}, cap USD {args.budget:.2f}")
         last_error = None
@@ -198,6 +208,7 @@ def main():
                     os.fsync(fp.fileno())
                 done[rid] = record
                 charged += cost
+                global_charged += cost
                 print(f"{i}/{len(selected)} ID={rid} tokens={tin}+{tout} "
                       f"cumulative USD {charged:.4f}")
                 last_error = None
