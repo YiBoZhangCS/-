@@ -1,0 +1,54 @@
+{
+  "checked_at_utc": "2026-11-18T09:16:02.939358+00:00",
+  "python": "3.10.12",
+  "packages": {
+    "openai": "2.53.0",
+    "httpx": "0.28.1"
+  },
+  "all_passed": true,
+  "live_inference_requests": 0,
+  "results": [
+    {
+      "command": [
+        "/usr/bin/python",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "roleplay",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "returncode": 0,
+      "test_count": 29,
+      "output": "test_400_not_retried_or_logged (test_generation.GenerationTests) ... ok\ntest_billable_invalid_output_and_incomplete_not_retried (test_generation.GenerationTests) ... ok\ntest_budget_stops_before_second_request (test_generation.GenerationTests) ... ok\ntest_declared_warm_start_reuses_equivalent_outputs_without_new_charge (test_generation.GenerationTests) ... ok\ntest_dry_run_makes_no_request_or_charge (test_generation.GenerationTests) ... ok\ntest_explicit_provider_refusal_fallback_is_metered_and_labelled (test_generation.GenerationTests) ... ok\ntest_insecure_endpoint_fails_before_request (test_generation.GenerationTests) ... ok\ntest_parallel_batch_billing_and_resume (test_generation.GenerationTests) ... ok\ntest_provider_error_redaction_before_truncation (test_generation.GenerationTests) ... ok\ntest_responses_mode_parameters (test_generation.GenerationTests) ... ok\ntest_success_resume_and_config_drift (test_generation.GenerationTests) ... ok\ntest_timeout_and_429_keep_reservations (test_generation.GenerationTests) ... ok\ntest_deterministic_role_stratified_subset (test_pipeline.RoleplayTests) ... ok\ntest_full_submission_validation (test_pipeline.RoleplayTests) ... ok\ntest_output_cleaning (test_pipeline.RoleplayTests) ... ok\ntest_prompt_includes_full_context_and_profile (test_pipeline.RoleplayTests) ... ok\ntest_source_has_exactly_571_unique_ids (test_pipeline.RoleplayTests) ... ok\ntest_all_prompts_preserve_entire_source (test_safety.SafetyTests) ... ok\ntest_charge_cannot_be_settled_twice_or_with_invalid_caps (test_safety.SafetyTests) ... ok\ntest_hard_global_cap (test_safety.SafetyTests) ... ok\ntest_invalid_submission_variants (test_safety.SafetyTests) ... ok\ntest_line_boundaries_and_types (test_safety.SafetyTests) ... ok\ntest_no_profile_ablation_preserves_context_but_omits_profile (test_safety.SafetyTests) ... ok\ntest_overrun_is_recorded_before_stopping (test_safety.SafetyTests) ... ok\ntest_provider_meter_stops_on_ambiguous_or_missing_updates (test_safety.SafetyTests) ... ok\ntest_provider_meter_uses_actual_model_cost_delta (test_safety.SafetyTests) ... ok\ntest_shared_budget_and_settlement (test_safety.SafetyTests) ... ok\ntest_unknown_charge_survives_restart_and_blocks_retry (test_safety.SafetyTests) ... ok\ntest_url_and_numeric_options (test_safety.SafetyTests) ... ok\n\n----------------------------------------------------------------------\nRan 29 tests in 2.076s\n\nOK\n"
+    },
+    {
+      "command": [
+        "/usr/bin/python",
+        "-O",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "roleplay",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "returncode": 0,
+      "test_count": 29,
+      "output": "test_400_not_retried_or_logged (test_generation.GenerationTests) ... ok\ntest_billable_invalid_output_and_incomplete_not_retried (test_generation.GenerationTests) ... ok\ntest_budget_stops_before_second_request (test_generation.GenerationTests) ... ok\ntest_declared_warm_start_reuses_equivalent_outputs_without_new_charge (test_generation.GenerationTests) ... ok\ntest_dry_run_makes_no_request_or_charge (test_generation.GenerationTests) ... ok\ntest_explicit_provider_refusal_fallback_is_metered_and_labelled (test_generation.GenerationTests) ... ok\ntest_insecure_endpoint_fails_before_request (test_generation.GenerationTests) ... ok\ntest_parallel_batch_billing_and_resume (test_generation.GenerationTests) ... ok\ntest_provider_error_redaction_before_truncation (test_generation.GenerationTests) ... ok\ntest_responses_mode_parameters (test_generation.GenerationTests) ... ok\ntest_success_resume_and_config_drift (test_generation.GenerationTests) ... ok\ntest_timeout_and_429_keep_reservations (test_generation.GenerationTests) ... ok\ntest_deterministic_role_stratified_subset (test_pipeline.RoleplayTests) ... ok\ntest_full_submission_validation (test_pipeline.RoleplayTests) ... ok\ntest_output_cleaning (test_pipeline.RoleplayTests) ... ok\ntest_prompt_includes_full_context_and_profile (test_pipeline.RoleplayTests) ... ok\ntest_source_has_exactly_571_unique_ids (test_pipeline.RoleplayTests) ... ok\ntest_all_prompts_preserve_entire_source (test_safety.SafetyTests) ... ok\ntest_charge_cannot_be_settled_twice_or_with_invalid_caps (test_safety.SafetyTests) ... ok\ntest_hard_global_cap (test_safety.SafetyTests) ... ok\ntest_invalid_submission_variants (test_safety.SafetyTests) ... ok\ntest_line_boundaries_and_types (test_safety.SafetyTests) ... ok\ntest_no_profile_ablation_preserves_context_but_omits_profile (test_safety.SafetyTests) ... ok\ntest_overrun_is_recorded_before_stopping (test_safety.SafetyTests) ... ok\ntest_provider_meter_stops_on_ambiguous_or_missing_updates (test_safety.SafetyTests) ... ok\ntest_provider_meter_uses_actual_model_cost_delta (test_safety.SafetyTests) ... ok\ntest_shared_budget_and_settlement (test_safety.SafetyTests) ... ok\ntest_unknown_charge_survives_restart_and_blocks_retry (test_safety.SafetyTests) ... ok\ntest_url_and_numeric_options (test_safety.SafetyTests) ... ok\n\n----------------------------------------------------------------------\nRan 29 tests in 2.051s\n\nOK\n"
+    },
+    {
+      "command": [
+        "/usr/bin/python",
+        "roleplay/audit_data.py"
+      ],
+      "returncode": 0,
+      "test_count": null,
+      "output": "{\n  \"records\": 571,\n  \"unique_ids\": 571,\n  \"roles\": 77,\n  \"novels\": 24,\n  \"profile_count\": 78,\n  \"metric_id_count\": 567,\n  \"missing_metric_ids\": [\n    6367,\n    952,\n    4584,\n    4879\n  ],\n  \"extra_metric_ids\": [],\n  \"metric_values\": {\n    \"Accuracy\": 90,\n    \"Humanlikeness\": 91,\n    \"Hallucination\": 61,\n    \"Coherence\": 89,\n    \"Behavior\": 90,\n    \"Communication_skills\": 92,\n    \"Diversity\": 92,\n    \"Empathy\": 93,\n    \"Consistency\": 89,\n    \"Exposure\": 89,\n    \"Utterance\": 91,\n    \"Fluency\": 38\n  },\n  \"context_chars\": {\n    \"min\": 6,\n    \"median\": 155,\n    \"p90_nearest_rank\": 449,\n    \"max\": 1237\n  },\n  \"profile_json_chars_per_sample\": {\n    \"min\": 175,\n    \"median\": 839,\n    \"p90_nearest_rank\": 1722,\n    \"max\": 2579\n  },\n  \"sha256\": {\n    \"character_profiles.json\": \"d9b4c9f7ab63b89b3c348ae88b43c87872f0f6a5cb06d7f31cbe64a630e6434e\",\n    \"id2metric.jsonl\": \"4f98384881b4b501c96276c2fa533d504ae8b7c8fd96dc85c4c33838cfdbe6fb\",\n    \"test_data.jsonl\": \"4c08090f8b597cd2ae3a7a22e8e88c8bc289f8adde172b2c28c2828c9c39687d\"\n  }\n}\n"
+    }
+  ]
+}

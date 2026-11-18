@@ -1,0 +1,52 @@
+{
+  "checked_at_utc": "2026-11-18T07:49:45.202389+00:00",
+  "credentials_sent": false,
+  "inference_requests": 0,
+  "https_probes": [
+    {
+      "url": "https://ainet-hub.com",
+      "route": "environment_proxy",
+      "error_type": "ConnectError"
+    },
+    {
+      "url": "https://ainet-hub.com",
+      "route": "direct",
+      "error_type": "ConnectError"
+    },
+    {
+      "url": "https://www.ainet-hub.com",
+      "route": "environment_proxy",
+      "error_type": "ConnectError"
+    },
+    {
+      "url": "https://www.ainet-hub.com",
+      "route": "direct",
+      "error_type": "ConnectError"
+    },
+    {
+      "url": "https://api.ainet-hub.com",
+      "route": "environment_proxy",
+      "error_type": "ConnectError"
+    },
+    {
+      "url": "https://api.ainet-hub.com",
+      "route": "direct",
+      "error_type": "ConnectError"
+    }
+  ],
+  "public_http_metadata": {
+    "source": "http://ainet-hub.com",
+    "trusted_transport": false,
+    "http_status": 200,
+    "settings": {
+      "api_base_url": "",
+      "doc_url": "",
+      "custom_endpoints": [],
+      "model_plaza_enabled": false
+    }
+  },
+  "verified_api_base_url": null,
+  "verified_model_ids": [],
+  "verified_prices": [],
+  "note": "Connectivity or public HTML alone cannot verify API ownership, pricing, or compatibility."
+}

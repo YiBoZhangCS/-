@@ -48,7 +48,7 @@ class RoleplayTests(unittest.TestCase):
             self.assertEqual(check(path)["records"], 571)
             data.pop()
             path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
-            with self.assertRaises(AssertionError):
+            with self.assertRaises(ValueError):
                 check(path)
 
 

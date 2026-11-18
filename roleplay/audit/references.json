@@ -1,0 +1,36 @@
+{
+  "checked_at_utc": "2026-11-18T09:05:33.288570+00:00",
+  "sources": [
+    {
+      "url": "https://aclanthology.org/2024.acl-long.638/",
+      "http_status": 200,
+      "sha256_response": "2cbc5f3dce04b654f7561b56d483f15ad35ae4b0753c2b722e64df7cbac9603b",
+      "title": "CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation - ACL Anthology"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.00482",
+      "http_status": 200,
+      "sha256_response": "50dc08cac5f724b0b94c3e95b01196d23c725cbf3e2ec3b681ff369f4f310d4c",
+      "title": "[2509.00482] Talk Less, Call Right: Enhancing Role-Play LLM Agents with Automatic Prompt Optimization and Role Prompting"
+    },
+    {
+      "url": "https://papers.neurips.cc/paper_files/paper/2025/hash/15294ba2dcfb4521274f7aa1c26f4dd4-Abstract-Conference.html",
+      "http_status": 200,
+      "sha256_response": "e08050a93efab7073baba60953d763071aed42a2709a0529666a351544a59675",
+      "title": "Codifying Character Logic in Role-Playing"
+    },
+    {
+      "url": "https://api.github.com/repos/morecry/CharacterEval/commits/main",
+      "http_status": 200,
+      "sha256_response": "e8ce7cbdb707b00627582af8835bf868f42c82ea37182359cc7dc5fda2f0af24",
+      "commit_sha": "c3d44a6fc1790cc8c4b2fd7c01f0c72930655e0c"
+    }
+  ],
+  "official_files_read": [
+    "get_response.py",
+    "transform_format.py",
+    "run_char_rm.py",
+    "compute_score.py"
+  ],
+  "method_reuse": "Role profile + complete context; metric expansion and per-dimension averaging. No training or full Codified Profiles/tool agent implementation."
+}

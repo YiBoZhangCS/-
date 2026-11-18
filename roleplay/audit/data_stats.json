@@ -1,0 +1,46 @@
+{
+  "records": 571,
+  "unique_ids": 571,
+  "roles": 77,
+  "novels": 24,
+  "profile_count": 78,
+  "metric_id_count": 567,
+  "missing_metric_ids": [
+    6367,
+    952,
+    4584,
+    4879
+  ],
+  "extra_metric_ids": [],
+  "metric_values": {
+    "Accuracy": 90,
+    "Humanlikeness": 91,
+    "Hallucination": 61,
+    "Coherence": 89,
+    "Behavior": 90,
+    "Communication_skills": 92,
+    "Diversity": 92,
+    "Empathy": 93,
+    "Consistency": 89,
+    "Exposure": 89,
+    "Utterance": 91,
+    "Fluency": 38
+  },
+  "context_chars": {
+    "min": 6,
+    "median": 155,
+    "p90_nearest_rank": 449,
+    "max": 1237
+  },
+  "profile_json_chars_per_sample": {
+    "min": 175,
+    "median": 839,
+    "p90_nearest_rank": 1722,
+    "max": 2579
+  },
+  "sha256": {
+    "character_profiles.json": "d9b4c9f7ab63b89b3c348ae88b43c87872f0f6a5cb06d7f31cbe64a630e6434e",
+    "id2metric.jsonl": "4f98384881b4b501c96276c2fa533d504ae8b7c8fd96dc85c4c33838cfdbe6fb",
+    "test_data.jsonl": "4c08090f8b597cd2ae3a7a22e8e88c8bc289f8adde172b2c28c2828c9c39687d"
+  }
+}

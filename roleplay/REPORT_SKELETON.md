@@ -13,13 +13,14 @@ OJ 12 维等权 Average：[待填写]；估算 API 成本：[待填写] USD。
 输入样本 x_i = (id_i, role_i, novel_i, context_i)，角色画像 P(role_i)。
 模型生成 y_i = f_theta(P(role_i), context_i, role_i, novel_i; prompt)。
 测试集 571 个互不重复 ID；77 个角色，覆盖 24 部作品；全部人物均能在角色画像中找到。
-角色画像来自官方 CharacterEval 对应文件（Git blob SHA 一致）。
+角色画像对应 CharacterEval 任务；与官方版本逐字一致性尚待独立核验，不以此作为已证实结论。
 测试集文件名为 jsonl，但内容是 JSON 数组；指标映射为 JSON 对象。
 指标映射存在 567 个 ID 键，其中 4 个 ID 没有对应评估指标，
 但仍需提交全部 571 个 ID 的回答。
 上下文字符数：min=6，中位数=155，P90=449，max=1237；
-画像序列化字符数（近似）：min=166，中位数=763，P90=1636，max=2398。
-以上为仓库数据的简单静态统计；正式报告应由脚本复核并保存统计结果。
+画像 JSON 序列化字符数（按每条测试样本统计、ensure_ascii=False、默认分隔符）：
+min=175，中位数=839，P90=1722，max=2579。
+以上统计已由 audit_data.py 复核，原始文件 SHA256 和指标覆盖记录见 audit/data_stats.json。
 
 ## 3 背景工作
 CharacterEval: Tu et al., ACL 2024，提供中文角色扮演 benchmark、角色画像及
@@ -37,6 +38,8 @@ CPDC 2025 基准上测试，不能将该论文的分数拿来证明 CharacterEva
 4.1 模型输入构建：原始角色卡（JSON 格式）+ 作品名 + 目标角色名 + 完整历史对话；
 以系统提示控制角色身份与输出格式。
 4.2 Baseline：简单角色扮演系统提示，直接续写。
+补充课件要求的画像消融：no_profile 与 baseline 保持相同系统提示、模型、解码参数和样本，
+仅去掉角色画像。baseline 与 structured 的对照是提示词消融，二者都含画像，不能混淆。
 4.3 Structured：场景契约包括对方意图、情绪、角色关系、角色动机、
 角色语言风格、动作适配、避免虚构。中间推理不输出，仅生成台词。
 4.4 后处理：检查首行，必要时移除开头的重复角色名前缀；不生成多行、
