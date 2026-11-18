@@ -1,0 +1,42 @@
+[
+  {
+    "run_id": "smoke_glm_no_thinking_v1",
+    "charge_id": 2,
+    "http_status": 400,
+    "actual_usd": 0,
+    "previous_source": "smoke_glm_v1/attempts.jsonl",
+    "following_source": "smoke_glm_2048_v1/attempts.jsonl",
+    "previous_counter": {
+      "requests_before": 0,
+      "requests_after": 1,
+      "cost_before_usd": 0.0,
+      "cost_after_usd": 0.003132
+    },
+    "following_counter": {
+      "requests_before": 1,
+      "requests_after": 2,
+      "cost_before_usd": 0.003132,
+      "cost_after_usd": 0.0060512
+    }
+  },
+  {
+    "run_id": "smoke_glm_no_thinking_v2",
+    "charge_id": 22,
+    "http_status": 400,
+    "actual_usd": 0,
+    "previous_source": "cmp_glm_structured40_v1/batches.jsonl",
+    "following_source": "cmp_glm_low_structured40_v1/batches.jsonl",
+    "previous_counter": {
+      "requests_before": 2,
+      "requests_after": 6,
+      "cost_before_usd": 0.0060512,
+      "cost_after_usd": 0.0268436
+    },
+    "following_counter": {
+      "requests_before": 6,
+      "requests_after": 10,
+      "cost_before_usd": 0.0268436,
+      "cost_after_usd": 0.0317488
+    }
+  }
+]

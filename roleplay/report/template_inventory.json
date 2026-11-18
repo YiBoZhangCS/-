@@ -1,0 +1,74 @@
+{
+  "[Content_Types].xml": {
+    "bytes": 2145,
+    "sha256": "aea6690f868d4551d96cf9dd7b4c5a69c4b3cf69b60eda580644dbdd7bc89fe1"
+  },
+  "_rels/.rels": {
+    "bytes": 590,
+    "sha256": "e19238d7a71fa7a2490776252686f70e2de6238c87cd509b5e3a3cc07c2ea4df"
+  },
+  "word/_rels/document.xml.rels": {
+    "bytes": 1734,
+    "sha256": "b074af83571f3d0d1fd46dd2d4198f7878853459042a330ad8b44df81f4a9158"
+  },
+  "word/document.xml": {
+    "bytes": 50574,
+    "sha256": "36a08cd6d8aa9b9634d462cf585a6eefa3177503b9aac921d656889108f015ec"
+  },
+  "word/header2.xml": {
+    "bytes": 2589,
+    "sha256": "7fda8cc7f180741cbb524975444df6976950d4f82a493b10b6bc1a31ac586ec9"
+  },
+  "word/footer1.xml": {
+    "bytes": 2809,
+    "sha256": "53879f8d5a305dfdeb5b713cd8a9790b7687d69914383dcabed288b9ca751628"
+  },
+  "word/header1.xml": {
+    "bytes": 2340,
+    "sha256": "c2fcc6894165a0e63f8f8fa1f0e6ad6f0e43d36b2d5014e2eb892bcfa9df848b"
+  },
+  "word/footnotes.xml": {
+    "bytes": 2494,
+    "sha256": "8d0a776783a6207345d0d7edfdfec1b8f0c7f86ecd81fee1d6bf2b71914848ae"
+  },
+  "word/endnotes.xml": {
+    "bytes": 2488,
+    "sha256": "a6dd4af51963fd8ad1b4842d591a647a823135ec5d3cd01f33679c63f2ee5c6e"
+  },
+  "word/media/image1.jpeg": {
+    "bytes": 396724,
+    "sha256": "97701db213198b9715bffbb404ec8c4789c83498160673bdbc25aa5b49beab04"
+  },
+  "word/theme/theme1.xml": {
+    "bytes": 6804,
+    "sha256": "7d877a14a830a2ffc9d99c589395c10d3cc944b1bba3db0cf6b526db6aa65887"
+  },
+  "word/settings.xml": {
+    "bytes": 7388,
+    "sha256": "d9abd1d332eed6368fc9d171251bdcc085f13c20f2a868dbbff1c0c7470c5d2d"
+  },
+  "word/webSettings.xml": {
+    "bytes": 20495,
+    "sha256": "d2e4640d2e60c8e6324286fb6a79acc937025e953815982a8d52dcde24f5b7cf"
+  },
+  "word/styles.xml": {
+    "bytes": 87621,
+    "sha256": "24563abf2704c694a59234990a49bb27eab18131e04b63bfe2a0e3ed69f5e936"
+  },
+  "word/numbering.xml": {
+    "bytes": 20521,
+    "sha256": "e6dec70a8306bf8cdfcde6902aed6b467706b6a8399545d7ab4face17b441a7d"
+  },
+  "docProps/core.xml": {
+    "bytes": 738,
+    "sha256": "cc80c4aadb76232c34804aeacb819d5b2b0f35b029678981745e0efdb8ba04ab"
+  },
+  "word/fontTable.xml": {
+    "bytes": 3924,
+    "sha256": "3fecbc6ad7f30712f181eff4312d0679e01caee1f8c1d8f03ba9ecd4d0117d97"
+  },
+  "docProps/app.xml": {
+    "bytes": 715,
+    "sha256": "5c6f540b7cc8d6375d33682fa870dee4ff49569bc4451cb123260ede2ab5afad"
+  }
+}

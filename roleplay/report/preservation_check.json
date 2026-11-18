@@ -1,0 +1,20 @@
+{
+  "template_sha256": "4f27a22424bd7c94cdcfd1ef14ce06c2ff12d0ca5ff1748ea0407cda9a5bfa01",
+  "preserve_only_parts": [
+    "_rels/.rels",
+    "word/header2.xml",
+    "word/footer1.xml",
+    "word/header1.xml",
+    "word/footnotes.xml",
+    "word/endnotes.xml",
+    "word/media/image1.jpeg",
+    "word/theme/theme1.xml",
+    "word/webSettings.xml",
+    "word/styles.xml",
+    "word/numbering.xml",
+    "word/fontTable.xml"
+  ],
+  "changed_preserve_only_parts": [],
+  "sections": 3,
+  "identity_fields_blank": true
+}

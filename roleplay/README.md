@@ -60,7 +60,13 @@ API 返回 usage 计算出的金额仍是估算，不能替代服务商最终账
 最终应在相同 40 条样本上分别做 `no_profile` vs `baseline` 和
 `baseline` vs `structured`，清楚区分两种消融，不能混称。
 
-三模型各 40 条和两项 GPT 消融各 40 条已完成，数据在 `results/`；完整 571 条正在生成。
+三模型各 40 条和两项 GPT 消融各 40 条已完成，数据在 `results/`；完整 571 条已生成并严格验证。
+主模型 GPT 566 条，供应商拒绝的正常素材由 GLM 备用模型生成 5 条，按条记录，不声称纯单模型成绩。
+总实际费用 USD 20.00935224，未决预留为 0，剩余预算 USD 79.99064776。总计 814 次推理尝试，
+806 次正常响应及用量，包含诊断失败，不把复用的 48 条重复计费。
+正式文件在 `runs/final_v2/submission.json`，按课程约定另外提供 `runs/final_v1/submission.json` 别名，
+两者 SHA256 一致；旧 final_v1 的原始配置和失败记录未修改，别名来源见 assembly_manifest.json。
+便于下载的版本也在 `results/submission.json`。29 项离线测试在普通与优化模式均通过。
 没有进行 OJ 提交，也没有把定性判断当作 CharacterRM 分数。详见 `audit/STATUS.md`。
 
 以下 MODEL、PRICE 是待替换参数，不表示已核实的服务商价格：

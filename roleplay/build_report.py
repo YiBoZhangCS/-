@@ -1,5 +1,6 @@
 """Build the course DOCX from the retained template and completed real run data."""
 import argparse
+from datetime import datetime, timezone
 from copy import deepcopy
 import hashlib
 import json
@@ -40,6 +41,8 @@ def table(doc, caption, headers, rows, widths):
     t = doc.add_table(rows=1, cols=len(headers))
     t.alignment = WD_TABLE_ALIGNMENT.CENTER
     t.autofit = False
+    for column, width in zip(t.columns, widths):
+        column.width = Cm(width)
     borders = OxmlElement("w:tblBorders")
     for edge in ("top", "left", "bottom", "right", "insideH", "insideV"):
         e = OxmlElement("w:" + edge)
@@ -75,6 +78,7 @@ def table(doc, caption, headers, rows, widths):
                 p.paragraph_format.space_before = Pt(0)
                 p.paragraph_format.space_after = Pt(0)
                 p.paragraph_format.line_spacing = 1.15
+                p.paragraph_format.keep_with_next = i < len(t.rows) - 1
                 for r in p.runs:
                     r.font.name = "Times New Roman"
                     r.font.size = Pt(10.5)
@@ -104,6 +108,8 @@ def main():
         "final_cost": f"{final['submission_attributed_usd']:.6f}", "total_cost": f"{totals['provider_billed_usd']:.6f}",
         "test_count": str(verify["results"][0]["test_count"]),
         "model_distribution": "、".join(f"{k} {v} 条" for k,v in final["model_distribution"].items()),
+        "inference_requests": str(totals["inference_requests"]),
+        "responses_with_usage": str(totals["responses_with_usage"]),
         "unknown_reserve": f"{totals['unknown_reserved_usd']:.2f}",
         "budget_remaining": f"{totals['budget_remaining_after_reservations_usd']:.6f}",
         "python_version": verify["python"], "openai_version": verify["packages"]["openai"],
@@ -111,9 +117,15 @@ def main():
     }
     content = (REPORT / "content.md").read_text(encoding="utf-8")
     content = re.sub(r"\{\{(\w+)\}\}", lambda m: values[m.group(1)], content)
+    # Markdown permits a heading immediately followed by a body line.
+    # Keep these as separate Word paragraphs rather than making the body a heading.
+    content = re.sub(r"(?m)^(# [^\n]+)\n", r"\1\n\n", content)
     if "{{" in content:
         raise SystemExit("Unresolved report placeholders")
     doc = Document(TEMPLATE)
+    update = OxmlElement("w:updateFields")
+    update.set(qn("w:val"), "true")
+    doc.settings.element.append(update)
     body = doc.element.body
     original_children = list(body)
     first_heading = next(i for i, e in enumerate(original_children) if e.xpath('./w:pPr/w:pStyle[@w:val="1"]'))
@@ -126,6 +138,12 @@ def main():
         if p.text.startswith("题目："):
             replace_text(p, "题目：基于大模型的中文角色扮演对话生成")
     identity = read(args.identity) if args.identity else {}
+    doc.core_properties.author = str(identity.get("姓名", ""))
+    doc.core_properties.last_modified_by = ""
+    doc.core_properties.title = "基于大模型的中文角色扮演对话生成"
+    doc.core_properties.subject = "信息检索课程角色扮演大作业"
+    doc.core_properties.created = datetime.now(timezone.utc)
+    doc.core_properties.modified = datetime.now(timezone.utc)
     replace_text(doc.tables[0].rows[1].cells[0].paragraphs[0], str(identity.get("序号", "")))
     for row in doc.tables[1].rows:
         label = row.cells[0].text.rstrip("：:")
@@ -171,17 +189,35 @@ def main():
             row = source_rows[rid]
             p = doc.add_paragraph(f"案例 {rid}  {row['role']}", "新正文")
             p.runs[0].bold = True
-            doc.add_paragraph("历史节选：“" + row["context"][-180:].replace("\n", " ") + "”", "新正文")
+            p.paragraph_format.keep_with_next = True
+            lines = row["context"].splitlines()
+            excerpt = ("……" if len(lines) > 3 else "") + " ".join(lines[-3:])
+            p = doc.add_paragraph("历史节选：“" + excerpt + "”", "新正文")
+            p.paragraph_format.keep_with_next = True
             doc.add_paragraph("最终回复：“" + final_outputs[rid] + "”", "新正文")
         else:
             doc.add_paragraph(block, "参考文献正文" if refs else "新正文")
+    for paragraph in doc.paragraphs:
+        if paragraph.style.name == "新正文":
+            paragraph.paragraph_format.widow_control = True
     path = REPORT / "角色扮演实验报告.docx"
-    doc.save(path)
+    working = REPORT / ".report-working.docx"
+    doc.save(working)
+    # python-docx reserializes untouched XML parts. Retain the original package
+    # bytes and replace only the intentionally edited body/settings parts.
+    with zipfile.ZipFile(TEMPLATE) as source, zipfile.ZipFile(working) as modified, \
+            zipfile.ZipFile(path, "w", compression=zipfile.ZIP_DEFLATED) as output:
+        if set(modified.namelist()) - set(source.namelist()):
+            raise SystemExit("Unexpected package parts; inspect relationships")
+        for item in source.infolist():
+            data = modified.read(item.filename) if item.filename in ("word/document.xml", "word/settings.xml", "docProps/core.xml") else source.read(item.filename)
+            output.writestr(item, data)
+    working.unlink()
     with zipfile.ZipFile(TEMPLATE) as source, zipfile.ZipFile(path) as output:
         inventory = {name: {"bytes": len(source.read(name)), "sha256": hashlib.sha256(source.read(name)).hexdigest()}
                      for name in source.namelist()}
         preserve = [name for name in inventory if name not in ("word/document.xml", "[Content_Types].xml",
-                    "word/_rels/document.xml.rels", "docProps/core.xml", "docProps/app.xml")]
+                    "word/_rels/document.xml.rels", "word/settings.xml", "docProps/core.xml", "docProps/app.xml")]
         changed = [name for name in preserve if name not in output.namelist() or source.read(name) != output.read(name)]
         write_json(REPORT / "template_inventory.json", inventory)
         write_json(REPORT / "preservation_check.json", {"template_sha256": TEMPLATE_SHA,

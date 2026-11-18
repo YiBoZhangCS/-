@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1083,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 33,
+    "input_tokens": 1294,
+    "output_tokens": 133
+  },
+  {
+    "id": 2915,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 33,
+    "input_tokens": 1843,
+    "output_tokens": 138
+  },
+  {
+    "id": 7678,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 33,
+    "input_tokens": 863,
+    "output_tokens": 133
+  },
+  {
+    "id": 3908,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 33,
+    "input_tokens": 704,
+    "output_tokens": 254
+  },
+  {
+    "id": 3588,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 34,
+    "input_tokens": 650,
+    "output_tokens": 83
+  },
+  {
+    "id": 7168,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 34,
+    "input_tokens": 546,
+    "output_tokens": 177
+  },
+  {
+    "id": 7399,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 34,
+    "input_tokens": 1314,
+    "output_tokens": 237
+  },
+  {
+    "id": 5802,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 34,
+    "input_tokens": 659,
+    "output_tokens": 312
+  },
+  {
+    "id": 4477,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 35,
+    "input_tokens": 1408,
+    "output_tokens": 214
+  },
+  {
+    "id": 2797,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 35,
+    "input_tokens": 706,
+    "output_tokens": 222
+  },
+  {
+    "id": 5484,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 35,
+    "input_tokens": 820,
+    "output_tokens": 246
+  },
+  {
+    "id": 1401,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 35,
+    "input_tokens": 1062,
+    "output_tokens": 310
+  },
+  {
+    "id": 4446,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 36,
+    "input_tokens": 1380,
+    "output_tokens": 153
+  },
+  {
+    "id": 4086,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 36,
+    "input_tokens": 801,
+    "output_tokens": 179
+  },
+  {
+    "id": 1679,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 36,
+    "input_tokens": 826,
+    "output_tokens": 228
+  },
+  {
+    "id": 10876,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 36,
+    "input_tokens": 957,
+    "output_tokens": 299
+  },
+  {
+    "id": 3667,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 37,
+    "input_tokens": 903,
+    "output_tokens": 183
+  },
+  {
+    "id": 2523,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 37,
+    "input_tokens": 1185,
+    "output_tokens": 216
+  },
+  {
+    "id": 5528,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 37,
+    "input_tokens": 1416,
+    "output_tokens": 366
+  },
+  {
+    "id": 2810,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 37,
+    "input_tokens": 1035,
+    "output_tokens": 345
+  },
+  {
+    "id": 962,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 38,
+    "input_tokens": 791,
+    "output_tokens": 233
+  },
+  {
+    "id": 11065,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 38,
+    "input_tokens": 1662,
+    "output_tokens": 214
+  },
+  {
+    "id": 1030,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 38,
+    "input_tokens": 1034,
+    "output_tokens": 216
+  },
+  {
+    "id": 1352,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 38,
+    "input_tokens": 1317,
+    "output_tokens": 219
+  },
+  {
+    "id": 1678,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 39,
+    "input_tokens": 541,
+    "output_tokens": 94
+  },
+  {
+    "id": 1468,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 39,
+    "input_tokens": 534,
+    "output_tokens": 187
+  },
+  {
+    "id": 1742,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 39,
+    "input_tokens": 1043,
+    "output_tokens": 214
+  },
+  {
+    "id": 6582,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 39,
+    "input_tokens": 954,
+    "output_tokens": 220
+  },
+  {
+    "id": 4194,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 40,
+    "input_tokens": 490,
+    "output_tokens": 139
+  },
+  {
+    "id": 2370,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 40,
+    "input_tokens": 664,
+    "output_tokens": 163
+  },
+  {
+    "id": 10149,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 40,
+    "input_tokens": 1126,
+    "output_tokens": 191
+  },
+  {
+    "id": 3043,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 40,
+    "input_tokens": 619,
+    "output_tokens": 236
+  },
+  {
+    "id": 357,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 41,
+    "input_tokens": 1004,
+    "output_tokens": 256
+  },
+  {
+    "id": 9852,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 41,
+    "input_tokens": 2446,
+    "output_tokens": 252
+  },
+  {
+    "id": 4186,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 41,
+    "input_tokens": 1377,
+    "output_tokens": 241
+  },
+  {
+    "id": 9505,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 41,
+    "input_tokens": 2270,
+    "output_tokens": 253
+  },
+  {
+    "id": 6345,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 42,
+    "input_tokens": 1120,
+    "output_tokens": 202
+  },
+  {
+    "id": 235,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 42,
+    "input_tokens": 760,
+    "output_tokens": 239
+  },
+  {
+    "id": 2509,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 42,
+    "input_tokens": 1230,
+    "output_tokens": 215
+  },
+  {
+    "id": 1765,
+    "model_used": "qwen3.8-max",
+    "source_run": "cmp_qwen_low_structured40_v1",
+    "charge_id": 42,
+    "input_tokens": 1582,
+    "output_tokens": 247
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "charge_id": 1,
+    "run_id": "smoke_glm_v1",
+    "usd": 0.003132,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 2,
+    "run_id": "smoke_glm_no_thinking_v1",
+    "usd": 0.0,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 3,
+    "run_id": "smoke_qwen_v1",
+    "usd": 0.031404,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 4,
+    "run_id": "smoke_glm_2048_v1",
+    "usd": 0.0029192,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 5,
+    "run_id": "smoke_gpt_v1",
+    "usd": 0.04319279999999992,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 6,
+    "run_id": "cmp_glm_structured40_v1",
+    "usd": 0.0207924,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 7,
+    "run_id": "cmp_qwen_structured40_v1",
+    "usd": 0.12183599999999999,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 8,
+    "run_id": "cmp_qwen_structured40_v1",
+    "usd": 0.13828800000000002,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 9,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.17735961599998973,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 10,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.14408553600000573,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 11,
+    "run_id": "cmp_qwen_structured40_v1",
+    "usd": 0.19018799999999997,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 12,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.19479599999999664,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 13,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.13279795200000422,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 14,
+    "run_id": "cmp_qwen_structured40_v1",
+    "usd": 0.11164800000000003,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 15,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.18549215999999547,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 16,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.13042108800000562,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 17,
+    "run_id": "cmp_qwen_structured40_v1",
+    "usd": 0.2781,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 18,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.1652615999999938,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 19,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.11854483199999777,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 20,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.13669084800000064,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 21,
+    "run_id": "cmp_gpt_structured40_v1",
+    "usd": 0.16721913599999993,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 22,
+    "run_id": "smoke_glm_no_thinking_v2",
+    "usd": 0.0,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 23,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.004905200000000002,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 24,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.004807199999999998,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 25,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.004145200000000002,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 26,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.004931600000000001,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 27,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.004878,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 28,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.006056800000000001,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 29,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.003510399999999997,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 30,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.003292399999999994,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 31,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.007052800000000012,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 32,
+    "run_id": "cmp_glm_low_structured40_v1",
+    "usd": 0.005679199999999995,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 33,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.08013599999999999,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 34,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.0671520000000001,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 35,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.08366399999999996,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 36,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.078492,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 37,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.09442799999999996,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 38,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.08939999999999992,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 39,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.0626040000000001,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 40,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.061031999999999975,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 41,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.1212359999999999,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 42,
+    "run_id": "cmp_qwen_low_structured40_v1",
+    "usd": 0.08881200000000011,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 43,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.135237312000001,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 44,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.1011669119999965,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 45,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.1296731520000094,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 46,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.11291011199999446,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 47,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.16204809600000658,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 48,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.14758329599999342,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 49,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.07908364800000811,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 50,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.11090419199999246,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 51,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.15282691200000897,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 52,
+    "run_id": "ablation_gpt_baseline40_v1",
+    "usd": 0.17222889599999291,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 53,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.13727145599999346,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 54,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.10979539200000943,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 55,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.08679283200000043,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 56,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.08164396799999452,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 57,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.153689760000006,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 58,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.08627875199999835,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 59,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.11076307199999746,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 60,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.09934848000000329,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 61,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.10613635199999294,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 62,
+    "run_id": "ablation_gpt_no_profile40_v1",
+    "usd": 0.060635232000009864,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 63,
+    "run_id": "final_v1",
+    "usd": 0.22900550399999986,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 64,
+    "run_id": "final_v1",
+    "usd": 0.3056316479999879,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 65,
+    "run_id": "final_v1",
+    "usd": 0.3213987840000101,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 66,
+    "run_id": "final_v1",
+    "usd": 0.17958124799999098,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 67,
+    "run_id": "final_v1",
+    "usd": 0.2786878080000008,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 68,
+    "run_id": "final_v1",
+    "usd": 0.238198464000007,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 69,
+    "run_id": "final_v1",
+    "usd": 0.1895342400000004,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 70,
+    "run_id": "final_v2",
+    "usd": 0.19412115200000407,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 71,
+    "run_id": "final_v2",
+    "usd": 0.0,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 72,
+    "run_id": "final_v2",
+    "usd": 0.21089577599998677,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 73,
+    "run_id": "final_v2",
+    "usd": 0.14130748800000958,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 74,
+    "run_id": "final_v2",
+    "usd": 0.2103897599999982,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 75,
+    "run_id": "final_v2",
+    "usd": 0.21482697599999767,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 76,
+    "run_id": "final_v2",
+    "usd": 0.17261596800000234,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 77,
+    "run_id": "final_v2",
+    "usd": 0.245679839999994,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 78,
+    "run_id": "final_v2",
+    "usd": 0.271514879999998,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 79,
+    "run_id": "final_v2",
+    "usd": 0.20500099200000932,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 80,
+    "run_id": "final_v2",
+    "usd": 0.16725139199999717,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 81,
+    "run_id": "final_v2",
+    "usd": 0.17530732800000237,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 82,
+    "run_id": "final_v2",
+    "usd": 0.2033760959999995,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 83,
+    "run_id": "final_v2",
+    "usd": 0.2648721599999959,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 84,
+    "run_id": "final_v2",
+    "usd": 0.15631660799999736,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 85,
+    "run_id": "final_v2",
+    "usd": 0.251024256000008,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 86,
+    "run_id": "final_v2",
+    "usd": 0.18017395200000408,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 87,
+    "run_id": "final_v2",
+    "usd": 0.19549151999999026,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 88,
+    "run_id": "final_v2",
+    "usd": 0.13978137600000196,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 89,
+    "run_id": "final_v2",
+    "usd": 0.1686343679999993,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 90,
+    "run_id": "final_v2",
+    "usd": 0.1969551359999997,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 91,
+    "run_id": "final_v2",
+    "usd": 0.21882873600000607,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 92,
+    "run_id": "final_v2",
+    "usd": 0.15827011199999674,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 93,
+    "run_id": "final_v2",
+    "usd": 0.1673017920000035,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 94,
+    "run_id": "final_v2",
+    "usd": 0.20772057599999982,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 95,
+    "run_id": "final_v2",
+    "usd": 0.23703321600000038,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 96,
+    "run_id": "final_v2",
+    "usd": 0.21006921599999373,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 97,
+    "run_id": "final_v2",
+    "usd": 0.17167852800000105,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 98,
+    "run_id": "final_v2",
+    "usd": 0.2136133439999952,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 99,
+    "run_id": "final_v2",
+    "usd": 0.17826883200000054,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 100,
+    "run_id": "final_v2",
+    "usd": 0.24454281600000627,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 101,
+    "run_id": "final_v2",
+    "usd": 0.15101654400000086,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 102,
+    "run_id": "final_v2",
+    "usd": 0.1242662399999972,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 103,
+    "run_id": "final_v2",
+    "usd": 0.3068936640000004,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 104,
+    "run_id": "final_v2",
+    "usd": 0.20583763199999794,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 105,
+    "run_id": "final_v2",
+    "usd": 0.20339827200000116,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 106,
+    "run_id": "final_v2",
+    "usd": 0.1901088000000044,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 107,
+    "run_id": "final_v2",
+    "usd": 0.18486518400000307,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 108,
+    "run_id": "final_v2",
+    "usd": 0.14650473599999714,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 109,
+    "run_id": "final_v2",
+    "usd": 0.2740671359999993,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 110,
+    "run_id": "final_v2",
+    "usd": 0.18197827199999494,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 111,
+    "run_id": "final_v2",
+    "usd": 0.2320940160000049,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 112,
+    "run_id": "final_v2",
+    "usd": 0.14450889599999073,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 113,
+    "run_id": "final_v2",
+    "usd": 0.23734569600000555,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 114,
+    "run_id": "final_v2",
+    "usd": 0.19332835199999465,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 115,
+    "run_id": "final_v2",
+    "usd": 0.14977468800000793,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 116,
+    "run_id": "final_v2",
+    "usd": 0.23109004799999866,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 117,
+    "run_id": "final_v2",
+    "usd": 0.1513673280000063,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 118,
+    "run_id": "final_v2",
+    "usd": 0.22261881599999356,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 119,
+    "run_id": "final_v2",
+    "usd": 0.1629734400000018,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 120,
+    "run_id": "final_v2",
+    "usd": 0.264670559999999,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 121,
+    "run_id": "final_v2",
+    "usd": 0.1588043520000042,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 122,
+    "run_id": "final_v2",
+    "usd": 0.20946441599998877,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 123,
+    "run_id": "final_v2",
+    "usd": 0.16064697600000954,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 124,
+    "run_id": "final_v2",
+    "usd": 0.15425020799999345,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 125,
+    "run_id": "final_v2",
+    "usd": 0.15468364800000245,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 126,
+    "run_id": "final_v2",
+    "usd": 0.17156563199999653,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 127,
+    "run_id": "final_v2",
+    "usd": 0.14790182400000162,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 128,
+    "run_id": "final_v2",
+    "usd": 0.16077196800000593,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 129,
+    "run_id": "final_v2",
+    "usd": 0.19864012799999795,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 130,
+    "run_id": "final_v2",
+    "usd": 0.0,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 131,
+    "run_id": "final_v2",
+    "usd": 0.1685279680000033,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 132,
+    "run_id": "final_v2",
+    "usd": 0.0,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 133,
+    "run_id": "final_v2",
+    "usd": 0.0,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 134,
+    "run_id": "final_v2",
+    "usd": 0.17791643199999202,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 135,
+    "run_id": "final_v2",
+    "usd": 0.0,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 136,
+    "run_id": "final_v2",
+    "usd": 0.20719036799999913,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 137,
+    "run_id": "final_v2",
+    "usd": 0.15402844800000537,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 138,
+    "run_id": "final_v2",
+    "usd": 0.14472863999999674,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 139,
+    "run_id": "final_v2",
+    "usd": 0.19461052799999834,
+    "state": "usage_estimate"
+  },
+  {
+    "charge_id": 140,
+    "run_id": "final_v2",
+    "usd": 0.06560870399999885,
+    "state": "usage_estimate"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 7678,
+    "model_used": "glm-5.3-flash",
+    "source_run": "cmp_glm_structured40_v1",
+    "charge_id": 6,
+    "input_tokens": 814,
+    "output_tokens": 278
+  },
+  {
+    "id": 2915,
+    "model_used": "glm-5.3-flash",
+    "source_run": "cmp_glm_structured40_v1",
+    "charge_id": 6,
+    "input_tokens": 1782,
+    "output_tokens": 814
+  },
+  {
+    "id": 3908,
+    "model_used": "glm-5.3-flash",
+    "source_run": "cmp_glm_structured40_v1",
+    "charge_id": 6,
+    "input_tokens": 632,
+    "output_tokens": 965
+  }
+]

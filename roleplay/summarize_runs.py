@@ -46,6 +46,9 @@ def main():
                 "multiline_raw_count": sum("\n" in (r.get("raw_output") or "") for r in attempts),
                 "unique_outputs": len({r["model_output"] for r in records}),
                 "oj_scores": None, "local_characterrm_scores": None}
+        success_keys = {(r["id"], r["charge_id"], r.get("model_used", config["model"])) for r in attempts}
+        item["inference_requests"] = len(attempts) + sum(
+            (r["id"], r["charge_id"], r.get("model_used", config["model"])) not in success_keys for r in errors)
         item["imported_cost_attribution_usd"] = sum(r["estimated_usd"] for r in records if r.get("source_run"))
         item["submission_attributed_usd"] = item["provider_billed_usd"] + item["imported_cost_attribution_usd"]
         if lengths:
@@ -58,12 +61,25 @@ def main():
             item["format_anomaly_ids"] = [r["id"] for r in records if not isinstance(r["model_output"], str)
                                           or "\n" in r["model_output"] or not r["model_output"].strip()]
         if (folder / "submission.json").exists():
-            item["submission_validation"] = check(folder / "submission.json")
+            if (folder / "assembly_manifest.json").exists():
+                item["submission_alias"] = json.loads((folder / "assembly_manifest.json").read_text(encoding="utf-8"))
+            else:
+                item["submission_validation"] = check(folder / "submission.json")
         runs.append(item)
         dest = public / folder.name
         dest.mkdir(parents=True, exist_ok=True)
         save(dest / "manifest.json", config)
         save(dest / "outputs.json", [{"id": r["id"], "model_output": r["model_output"]} for r in records])
+        save(dest / "provenance.json", [{"id": r["id"], "model_used": r.get("model_used", config["model"]),
+             "source_run": r.get("source_run", folder.name), "charge_id": r["charge_id"],
+             "input_tokens": r["input_tokens"], "output_tokens": r["output_tokens"]} for r in records])
+        save(dest / "billing_batches.json", [{"charge_id": r["charge_id"], "ids": r["ids"],
+             "actual_usd": r["actual_usd"]} for r in read_records(folder / "batches.jsonl")])
+    totals["inference_requests"] = sum(r["inference_requests"] for r in runs)
+    totals["responses_with_usage"] = sum(r["successful_http_responses"] for r in runs)
+    totals["input_tokens_all_experiments"] = sum(r["input_tokens"] for r in runs)
+    totals["output_tokens_all_experiments"] = sum(r["output_tokens"] for r in runs)
+    save(public / "billing_ledger.json", [{"charge_id": x[0], "run_id": x[1], "usd": x[2], "state": x[3]} for x in ledger])
     save(public / "experiment_summary.json", {"totals": totals, "runs": runs,
          "cost_note": "Batch totals are provider actual_cost deltas; per-row allocations are approximate. Pending reservations are not claimed as actual spend."})
     print(json.dumps({"totals": totals, "runs": [{k: r[k] for k in ("run_id", "completed_samples", "provider_billed_usd", "unknown_reserved_usd")} for r in runs]}, ensure_ascii=False, indent=2))

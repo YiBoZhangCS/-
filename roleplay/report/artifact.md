@@ -31,6 +31,8 @@ SHA256：4f27a22424bd7c94cdcfd1ef14ce06c2ff12d0ca5ff1748ea0407cda9a5bfa01。
 
 包保留检查：构建脚本记录所有模板 ZIP 部件及 SHA256。
 word/document.xml 为可编辑部件，关系和 Content_Types 允许序列化差异但不得丢失原部件；
+settings.xml 仅新增 updateFields=true，供 Word 打开时刷新保留的 PAGE 域；不通过 LibreOffice 回存 DOCX。
+docProps/core.xml 清除模板作者等旧身份信息，未知作者留空，写入本报告题目和实际构建时间。
 styles.xml、numbering.xml、headers、footer、theme、media、fontTable 等保留部件按字节对比。
 
 渲染门槛：使用挂载的 Codex 内置 LibreOffice/Poppler，在 Ubuntu 24.04 隔离容器内运行，

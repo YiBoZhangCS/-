@@ -1,0 +1,4570 @@
+[
+  {
+    "id": 3588,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 63,
+    "input_tokens": 3307,
+    "output_tokens": 23
+  },
+  {
+    "id": 7168,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 63,
+    "input_tokens": 3220,
+    "output_tokens": 39
+  },
+  {
+    "id": 1083,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 63,
+    "input_tokens": 4040,
+    "output_tokens": 47
+  },
+  {
+    "id": 7399,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 63,
+    "input_tokens": 4178,
+    "output_tokens": 48
+  },
+  {
+    "id": 3908,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 63,
+    "input_tokens": 4882,
+    "output_tokens": 54
+  },
+  {
+    "id": 5802,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 63,
+    "input_tokens": 3342,
+    "output_tokens": 65
+  },
+  {
+    "id": 2915,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 63,
+    "input_tokens": 6242,
+    "output_tokens": 48
+  },
+  {
+    "id": 7678,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 63,
+    "input_tokens": 3629,
+    "output_tokens": 94
+  },
+  {
+    "id": 4477,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 64,
+    "input_tokens": 4305,
+    "output_tokens": 54
+  },
+  {
+    "id": 5484,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 64,
+    "input_tokens": 3532,
+    "output_tokens": 56
+  },
+  {
+    "id": 1679,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 64,
+    "input_tokens": 5088,
+    "output_tokens": 65
+  },
+  {
+    "id": 10876,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 64,
+    "input_tokens": 5208,
+    "output_tokens": 58
+  },
+  {
+    "id": 1401,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 64,
+    "input_tokens": 3858,
+    "output_tokens": 92
+  },
+  {
+    "id": 4086,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 64,
+    "input_tokens": 3540,
+    "output_tokens": 40
+  },
+  {
+    "id": 4446,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 64,
+    "input_tokens": 4241,
+    "output_tokens": 20
+  },
+  {
+    "id": 2797,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 64,
+    "input_tokens": 4890,
+    "output_tokens": 60
+  },
+  {
+    "id": 3667,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 65,
+    "input_tokens": 3628,
+    "output_tokens": 40
+  },
+  {
+    "id": 5528,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 65,
+    "input_tokens": 5659,
+    "output_tokens": 63
+  },
+  {
+    "id": 11065,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 65,
+    "input_tokens": 6129,
+    "output_tokens": 77
+  },
+  {
+    "id": 2810,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 65,
+    "input_tokens": 3803,
+    "output_tokens": 73
+  },
+  {
+    "id": 962,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 65,
+    "input_tokens": 4947,
+    "output_tokens": 65
+  },
+  {
+    "id": 1352,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 65,
+    "input_tokens": 4227,
+    "output_tokens": 64
+  },
+  {
+    "id": 2523,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 65,
+    "input_tokens": 4043,
+    "output_tokens": 60
+  },
+  {
+    "id": 1030,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 65,
+    "input_tokens": 3802,
+    "output_tokens": 208
+  },
+  {
+    "id": 1678,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 66,
+    "input_tokens": 3200,
+    "output_tokens": 41
+  },
+  {
+    "id": 6582,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 66,
+    "input_tokens": 3658,
+    "output_tokens": 51
+  },
+  {
+    "id": 1468,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 66,
+    "input_tokens": 4706,
+    "output_tokens": 74
+  },
+  {
+    "id": 10149,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 66,
+    "input_tokens": 3959,
+    "output_tokens": 52
+  },
+  {
+    "id": 4194,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 66,
+    "input_tokens": 3147,
+    "output_tokens": 45
+  },
+  {
+    "id": 2370,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 66,
+    "input_tokens": 3328,
+    "output_tokens": 55
+  },
+  {
+    "id": 3043,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 66,
+    "input_tokens": 4764,
+    "output_tokens": 39
+  },
+  {
+    "id": 1742,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 66,
+    "input_tokens": 5317,
+    "output_tokens": 62
+  },
+  {
+    "id": 357,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 67,
+    "input_tokens": 3769,
+    "output_tokens": 42
+  },
+  {
+    "id": 6345,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 67,
+    "input_tokens": 3964,
+    "output_tokens": 57
+  },
+  {
+    "id": 9852,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 67,
+    "input_tokens": 7025,
+    "output_tokens": 79
+  },
+  {
+    "id": 1765,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 67,
+    "input_tokens": 4514,
+    "output_tokens": 46
+  },
+  {
+    "id": 2509,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 67,
+    "input_tokens": 5601,
+    "output_tokens": 71
+  },
+  {
+    "id": 4186,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 67,
+    "input_tokens": 4280,
+    "output_tokens": 54
+  },
+  {
+    "id": 235,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 67,
+    "input_tokens": 3474,
+    "output_tokens": 36
+  },
+  {
+    "id": 9505,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 67,
+    "input_tokens": 6815,
+    "output_tokens": 67
+  },
+  {
+    "id": 6652,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 68,
+    "input_tokens": 5057,
+    "output_tokens": 49
+  },
+  {
+    "id": 1754,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 68,
+    "input_tokens": 3802,
+    "output_tokens": 47
+  },
+  {
+    "id": 2751,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 68,
+    "input_tokens": 3475,
+    "output_tokens": 51
+  },
+  {
+    "id": 1487,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 68,
+    "input_tokens": 3170,
+    "output_tokens": 53
+  },
+  {
+    "id": 3599,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 68,
+    "input_tokens": 3839,
+    "output_tokens": 48
+  },
+  {
+    "id": 7819,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 68,
+    "input_tokens": 3522,
+    "output_tokens": 43
+  },
+  {
+    "id": 1441,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 68,
+    "input_tokens": 3341,
+    "output_tokens": 47
+  },
+  {
+    "id": 1652,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v1",
+    "charge_id": 68,
+    "input_tokens": 4170,
+    "output_tokens": 64
+  },
+  {
+    "id": 3963,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 70,
+    "input_tokens": 4312,
+    "output_tokens": 52
+  },
+  {
+    "id": 4725,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 70,
+    "input_tokens": 3840,
+    "output_tokens": 86
+  },
+  {
+    "id": 2457,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 70,
+    "input_tokens": 3502,
+    "output_tokens": 51
+  },
+  {
+    "id": 1518,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 70,
+    "input_tokens": 4098,
+    "output_tokens": 67
+  },
+  {
+    "id": 5556,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 70,
+    "input_tokens": 3503,
+    "output_tokens": 49
+  },
+  {
+    "id": 11329,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 70,
+    "input_tokens": 3498,
+    "output_tokens": 116
+  },
+  {
+    "id": 677,
+    "model_used": "glm-5.3-flash",
+    "source_run": "final_v2",
+    "charge_id": 70,
+    "input_tokens": 676,
+    "output_tokens": 144
+  },
+  {
+    "id": 5405,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 70,
+    "input_tokens": 3623,
+    "output_tokens": 49
+  },
+  {
+    "id": 2010,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 72,
+    "input_tokens": 3538,
+    "output_tokens": 55
+  },
+  {
+    "id": 4298,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 72,
+    "input_tokens": 4422,
+    "output_tokens": 36
+  },
+  {
+    "id": 1846,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 72,
+    "input_tokens": 4124,
+    "output_tokens": 55
+  },
+  {
+    "id": 2556,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 72,
+    "input_tokens": 3807,
+    "output_tokens": 60
+  },
+  {
+    "id": 2244,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 72,
+    "input_tokens": 3192,
+    "output_tokens": 27
+  },
+  {
+    "id": 6767,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 72,
+    "input_tokens": 4212,
+    "output_tokens": 58
+  },
+  {
+    "id": 3899,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 72,
+    "input_tokens": 5202,
+    "output_tokens": 46
+  },
+  {
+    "id": 3097,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 72,
+    "input_tokens": 3278,
+    "output_tokens": 119
+  },
+  {
+    "id": 3131,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 73,
+    "input_tokens": 3151,
+    "output_tokens": 43
+  },
+  {
+    "id": 19,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 73,
+    "input_tokens": 3647,
+    "output_tokens": 55
+  },
+  {
+    "id": 2103,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 73,
+    "input_tokens": 4084,
+    "output_tokens": 51
+  },
+  {
+    "id": 629,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 73,
+    "input_tokens": 3614,
+    "output_tokens": 51
+  },
+  {
+    "id": 1499,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 73,
+    "input_tokens": 3294,
+    "output_tokens": 36
+  },
+  {
+    "id": 9113,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 73,
+    "input_tokens": 4763,
+    "output_tokens": 50
+  },
+  {
+    "id": 1202,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 73,
+    "input_tokens": 3732,
+    "output_tokens": 59
+  },
+  {
+    "id": 2241,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 73,
+    "input_tokens": 3199,
+    "output_tokens": 64
+  },
+  {
+    "id": 9724,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 74,
+    "input_tokens": 4396,
+    "output_tokens": 89
+  },
+  {
+    "id": 4631,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 74,
+    "input_tokens": 3722,
+    "output_tokens": 104
+  },
+  {
+    "id": 8396,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 74,
+    "input_tokens": 3361,
+    "output_tokens": 52
+  },
+  {
+    "id": 4573,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 74,
+    "input_tokens": 3226,
+    "output_tokens": 152
+  },
+  {
+    "id": 2967,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 74,
+    "input_tokens": 3440,
+    "output_tokens": 55
+  },
+  {
+    "id": 5519,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 74,
+    "input_tokens": 3590,
+    "output_tokens": 68
+  },
+  {
+    "id": 4831,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 74,
+    "input_tokens": 3322,
+    "output_tokens": 49
+  },
+  {
+    "id": 10789,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 74,
+    "input_tokens": 3574,
+    "output_tokens": 68
+  },
+  {
+    "id": 5170,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 75,
+    "input_tokens": 4328,
+    "output_tokens": 52
+  },
+  {
+    "id": 7314,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 75,
+    "input_tokens": 3868,
+    "output_tokens": 71
+  },
+  {
+    "id": 2148,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 75,
+    "input_tokens": 4166,
+    "output_tokens": 54
+  },
+  {
+    "id": 4239,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 75,
+    "input_tokens": 4406,
+    "output_tokens": 38
+  },
+  {
+    "id": 10283,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 75,
+    "input_tokens": 3557,
+    "output_tokens": 52
+  },
+  {
+    "id": 1594,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 75,
+    "input_tokens": 3995,
+    "output_tokens": 51
+  },
+  {
+    "id": 11146,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 75,
+    "input_tokens": 3615,
+    "output_tokens": 53
+  },
+  {
+    "id": 5068,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 75,
+    "input_tokens": 4310,
+    "output_tokens": 69
+  },
+  {
+    "id": 6521,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 76,
+    "input_tokens": 4921,
+    "output_tokens": 59
+  },
+  {
+    "id": 1340,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 76,
+    "input_tokens": 3565,
+    "output_tokens": 46
+  },
+  {
+    "id": 1362,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 76,
+    "input_tokens": 3133,
+    "output_tokens": 79
+  },
+  {
+    "id": 2616,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 76,
+    "input_tokens": 3890,
+    "output_tokens": 46
+  },
+  {
+    "id": 5895,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 76,
+    "input_tokens": 3757,
+    "output_tokens": 54
+  },
+  {
+    "id": 9605,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 76,
+    "input_tokens": 4907,
+    "output_tokens": 42
+  },
+  {
+    "id": 1537,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 76,
+    "input_tokens": 3596,
+    "output_tokens": 125
+  },
+  {
+    "id": 9394,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 76,
+    "input_tokens": 3645,
+    "output_tokens": 78
+  },
+  {
+    "id": 3094,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 77,
+    "input_tokens": 3198,
+    "output_tokens": 44
+  },
+  {
+    "id": 9929,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 77,
+    "input_tokens": 5150,
+    "output_tokens": 45
+  },
+  {
+    "id": 6909,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 77,
+    "input_tokens": 5568,
+    "output_tokens": 76
+  },
+  {
+    "id": 7691,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 77,
+    "input_tokens": 3388,
+    "output_tokens": 39
+  },
+  {
+    "id": 4020,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 77,
+    "input_tokens": 3279,
+    "output_tokens": 64
+  },
+  {
+    "id": 3885,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 77,
+    "input_tokens": 4558,
+    "output_tokens": 55
+  },
+  {
+    "id": 3887,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 77,
+    "input_tokens": 3651,
+    "output_tokens": 40
+  },
+  {
+    "id": 7371,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 77,
+    "input_tokens": 4275,
+    "output_tokens": 87
+  },
+  {
+    "id": 6111,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 78,
+    "input_tokens": 3463,
+    "output_tokens": 53
+  },
+  {
+    "id": 8525,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 78,
+    "input_tokens": 3914,
+    "output_tokens": 55
+  },
+  {
+    "id": 523,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 78,
+    "input_tokens": 4163,
+    "output_tokens": 68
+  },
+  {
+    "id": 844,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 78,
+    "input_tokens": 5501,
+    "output_tokens": 48
+  },
+  {
+    "id": 6702,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 78,
+    "input_tokens": 4430,
+    "output_tokens": 81
+  },
+  {
+    "id": 9078,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 78,
+    "input_tokens": 4703,
+    "output_tokens": 54
+  },
+  {
+    "id": 3847,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 78,
+    "input_tokens": 5083,
+    "output_tokens": 53
+  },
+  {
+    "id": 549,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 78,
+    "input_tokens": 4373,
+    "output_tokens": 38
+  },
+  {
+    "id": 2835,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 79,
+    "input_tokens": 3562,
+    "output_tokens": 56
+  },
+  {
+    "id": 8621,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 79,
+    "input_tokens": 5116,
+    "output_tokens": 56
+  },
+  {
+    "id": 4848,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 79,
+    "input_tokens": 3145,
+    "output_tokens": 47
+  },
+  {
+    "id": 2653,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 79,
+    "input_tokens": 5327,
+    "output_tokens": 66
+  },
+  {
+    "id": 1588,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 79,
+    "input_tokens": 4248,
+    "output_tokens": 54
+  },
+  {
+    "id": 4756,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 79,
+    "input_tokens": 3279,
+    "output_tokens": 52
+  },
+  {
+    "id": 5171,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 79,
+    "input_tokens": 4402,
+    "output_tokens": 55
+  },
+  {
+    "id": 10267,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 79,
+    "input_tokens": 4360,
+    "output_tokens": 58
+  },
+  {
+    "id": 2368,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 80,
+    "input_tokens": 3474,
+    "output_tokens": 59
+  },
+  {
+    "id": 700,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 80,
+    "input_tokens": 4337,
+    "output_tokens": 49
+  },
+  {
+    "id": 9816,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 80,
+    "input_tokens": 3562,
+    "output_tokens": 74
+  },
+  {
+    "id": 1653,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 80,
+    "input_tokens": 4223,
+    "output_tokens": 42
+  },
+  {
+    "id": 2203,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 80,
+    "input_tokens": 3786,
+    "output_tokens": 34
+  },
+  {
+    "id": 3023,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 80,
+    "input_tokens": 3428,
+    "output_tokens": 58
+  },
+  {
+    "id": 3090,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 80,
+    "input_tokens": 3216,
+    "output_tokens": 40
+  },
+  {
+    "id": 2884,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 80,
+    "input_tokens": 3923,
+    "output_tokens": 37
+  },
+  {
+    "id": 3593,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 81,
+    "input_tokens": 3518,
+    "output_tokens": 31
+  },
+  {
+    "id": 3859,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 81,
+    "input_tokens": 3938,
+    "output_tokens": 48
+  },
+  {
+    "id": 1608,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 81,
+    "input_tokens": 4023,
+    "output_tokens": 64
+  },
+  {
+    "id": 1186,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 81,
+    "input_tokens": 3617,
+    "output_tokens": 95
+  },
+  {
+    "id": 4498,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 81,
+    "input_tokens": 3558,
+    "output_tokens": 47
+  },
+  {
+    "id": 5527,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 81,
+    "input_tokens": 4105,
+    "output_tokens": 59
+  },
+  {
+    "id": 2654,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 81,
+    "input_tokens": 3559,
+    "output_tokens": 41
+  },
+  {
+    "id": 4182,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 81,
+    "input_tokens": 5793,
+    "output_tokens": 58
+  },
+  {
+    "id": 871,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 82,
+    "input_tokens": 3557,
+    "output_tokens": 46
+  },
+  {
+    "id": 2028,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 82,
+    "input_tokens": 4077,
+    "output_tokens": 45
+  },
+  {
+    "id": 5459,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 82,
+    "input_tokens": 3633,
+    "output_tokens": 59
+  },
+  {
+    "id": 8457,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 82,
+    "input_tokens": 3995,
+    "output_tokens": 60
+  },
+  {
+    "id": 3939,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 82,
+    "input_tokens": 3277,
+    "output_tokens": 49
+  },
+  {
+    "id": 1262,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 82,
+    "input_tokens": 3517,
+    "output_tokens": 71
+  },
+  {
+    "id": 2692,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 82,
+    "input_tokens": 3403,
+    "output_tokens": 103
+  },
+  {
+    "id": 2774,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 82,
+    "input_tokens": 5450,
+    "output_tokens": 47
+  },
+  {
+    "id": 7730,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 83,
+    "input_tokens": 4505,
+    "output_tokens": 51
+  },
+  {
+    "id": 9915,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 83,
+    "input_tokens": 5318,
+    "output_tokens": 62
+  },
+  {
+    "id": 4703,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 83,
+    "input_tokens": 5279,
+    "output_tokens": 44
+  },
+  {
+    "id": 4103,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 83,
+    "input_tokens": 4148,
+    "output_tokens": 50
+  },
+  {
+    "id": 5818,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 83,
+    "input_tokens": 3464,
+    "output_tokens": 42
+  },
+  {
+    "id": 4740,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 83,
+    "input_tokens": 3444,
+    "output_tokens": 51
+  },
+  {
+    "id": 5748,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 83,
+    "input_tokens": 3331,
+    "output_tokens": 55
+  },
+  {
+    "id": 5884,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 83,
+    "input_tokens": 5642,
+    "output_tokens": 63
+  },
+  {
+    "id": 158,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 84,
+    "input_tokens": 4002,
+    "output_tokens": 48
+  },
+  {
+    "id": 4190,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 84,
+    "input_tokens": 4333,
+    "output_tokens": 29
+  },
+  {
+    "id": 8919,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 84,
+    "input_tokens": 3655,
+    "output_tokens": 51
+  },
+  {
+    "id": 5829,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 84,
+    "input_tokens": 3441,
+    "output_tokens": 88
+  },
+  {
+    "id": 2996,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 84,
+    "input_tokens": 3596,
+    "output_tokens": 55
+  },
+  {
+    "id": 2126,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 84,
+    "input_tokens": 4175,
+    "output_tokens": 56
+  },
+  {
+    "id": 4879,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 84,
+    "input_tokens": 3366,
+    "output_tokens": 51
+  },
+  {
+    "id": 1305,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 84,
+    "input_tokens": 4230,
+    "output_tokens": 66
+  },
+  {
+    "id": 9053,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 85,
+    "input_tokens": 3164,
+    "output_tokens": 68
+  },
+  {
+    "id": 4911,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 85,
+    "input_tokens": 4901,
+    "output_tokens": 66
+  },
+  {
+    "id": 4215,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 85,
+    "input_tokens": 5853,
+    "output_tokens": 53
+  },
+  {
+    "id": 5922,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 85,
+    "input_tokens": 3235,
+    "output_tokens": 69
+  },
+  {
+    "id": 6388,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 85,
+    "input_tokens": 5338,
+    "output_tokens": 52
+  },
+  {
+    "id": 4837,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 85,
+    "input_tokens": 3509,
+    "output_tokens": 50
+  },
+  {
+    "id": 10014,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 85,
+    "input_tokens": 3355,
+    "output_tokens": 57
+  },
+  {
+    "id": 2418,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 85,
+    "input_tokens": 5800,
+    "output_tokens": 46
+  },
+  {
+    "id": 1161,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 86,
+    "input_tokens": 3341,
+    "output_tokens": 58
+  },
+  {
+    "id": 9676,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 86,
+    "input_tokens": 4259,
+    "output_tokens": 53
+  },
+  {
+    "id": 3164,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 86,
+    "input_tokens": 3428,
+    "output_tokens": 59
+  },
+  {
+    "id": 8929,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 86,
+    "input_tokens": 4543,
+    "output_tokens": 58
+  },
+  {
+    "id": 8073,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 86,
+    "input_tokens": 4230,
+    "output_tokens": 57
+  },
+  {
+    "id": 8840,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 86,
+    "input_tokens": 3781,
+    "output_tokens": 47
+  },
+  {
+    "id": 1243,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 86,
+    "input_tokens": 3557,
+    "output_tokens": 51
+  },
+  {
+    "id": 9894,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 86,
+    "input_tokens": 3672,
+    "output_tokens": 94
+  },
+  {
+    "id": 10191,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 87,
+    "input_tokens": 3540,
+    "output_tokens": 58
+  },
+  {
+    "id": 2398,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 87,
+    "input_tokens": 3892,
+    "output_tokens": 58
+  },
+  {
+    "id": 4344,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 87,
+    "input_tokens": 4422,
+    "output_tokens": 65
+  },
+  {
+    "id": 4750,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 87,
+    "input_tokens": 3358,
+    "output_tokens": 39
+  },
+  {
+    "id": 6411,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 87,
+    "input_tokens": 3351,
+    "output_tokens": 54
+  },
+  {
+    "id": 37,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 87,
+    "input_tokens": 4727,
+    "output_tokens": 53
+  },
+  {
+    "id": 9240,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 87,
+    "input_tokens": 4324,
+    "output_tokens": 66
+  },
+  {
+    "id": 6538,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 87,
+    "input_tokens": 3384,
+    "output_tokens": 51
+  },
+  {
+    "id": 7909,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 88,
+    "input_tokens": 3865,
+    "output_tokens": 62
+  },
+  {
+    "id": 1460,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 88,
+    "input_tokens": 3507,
+    "output_tokens": 48
+  },
+  {
+    "id": 8267,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 88,
+    "input_tokens": 3521,
+    "output_tokens": 69
+  },
+  {
+    "id": 1113,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 88,
+    "input_tokens": 3912,
+    "output_tokens": 71
+  },
+  {
+    "id": 592,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 88,
+    "input_tokens": 4392,
+    "output_tokens": 55
+  },
+  {
+    "id": 1738,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 88,
+    "input_tokens": 3076,
+    "output_tokens": 48
+  },
+  {
+    "id": 3792,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 88,
+    "input_tokens": 3682,
+    "output_tokens": 52
+  },
+  {
+    "id": 6580,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 88,
+    "input_tokens": 3599,
+    "output_tokens": 121
+  },
+  {
+    "id": 4412,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 89,
+    "input_tokens": 3532,
+    "output_tokens": 39
+  },
+  {
+    "id": 6934,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 89,
+    "input_tokens": 3160,
+    "output_tokens": 36
+  },
+  {
+    "id": 6367,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 89,
+    "input_tokens": 4584,
+    "output_tokens": 59
+  },
+  {
+    "id": 9736,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 89,
+    "input_tokens": 3954,
+    "output_tokens": 47
+  },
+  {
+    "id": 3950,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 89,
+    "input_tokens": 3317,
+    "output_tokens": 53
+  },
+  {
+    "id": 5533,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 89,
+    "input_tokens": 4278,
+    "output_tokens": 56
+  },
+  {
+    "id": 1446,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 89,
+    "input_tokens": 5434,
+    "output_tokens": 54
+  },
+  {
+    "id": 4352,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 89,
+    "input_tokens": 3490,
+    "output_tokens": 39
+  },
+  {
+    "id": 9802,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 90,
+    "input_tokens": 3942,
+    "output_tokens": 49
+  },
+  {
+    "id": 590,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 90,
+    "input_tokens": 4187,
+    "output_tokens": 51
+  },
+  {
+    "id": 2481,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 90,
+    "input_tokens": 3756,
+    "output_tokens": 40
+  },
+  {
+    "id": 10176,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 90,
+    "input_tokens": 3859,
+    "output_tokens": 56
+  },
+  {
+    "id": 9345,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 90,
+    "input_tokens": 3492,
+    "output_tokens": 41
+  },
+  {
+    "id": 5723,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 90,
+    "input_tokens": 3358,
+    "output_tokens": 43
+  },
+  {
+    "id": 4562,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 90,
+    "input_tokens": 4694,
+    "output_tokens": 58
+  },
+  {
+    "id": 5948,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 90,
+    "input_tokens": 3409,
+    "output_tokens": 57
+  },
+  {
+    "id": 3938,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 91,
+    "input_tokens": 3254,
+    "output_tokens": 41
+  },
+  {
+    "id": 766,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 91,
+    "input_tokens": 4588,
+    "output_tokens": 85
+  },
+  {
+    "id": 5410,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 91,
+    "input_tokens": 4311,
+    "output_tokens": 49
+  },
+  {
+    "id": 3839,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 91,
+    "input_tokens": 5817,
+    "output_tokens": 59
+  },
+  {
+    "id": 8610,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 91,
+    "input_tokens": 3169,
+    "output_tokens": 30
+  },
+  {
+    "id": 7083,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 91,
+    "input_tokens": 3526,
+    "output_tokens": 50
+  },
+  {
+    "id": 1981,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 91,
+    "input_tokens": 3959,
+    "output_tokens": 27
+  },
+  {
+    "id": 5180,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 91,
+    "input_tokens": 4233,
+    "output_tokens": 56
+  },
+  {
+    "id": 10042,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 92,
+    "input_tokens": 3056,
+    "output_tokens": 29
+  },
+  {
+    "id": 699,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 92,
+    "input_tokens": 4236,
+    "output_tokens": 64
+  },
+  {
+    "id": 8523,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 92,
+    "input_tokens": 3732,
+    "output_tokens": 50
+  },
+  {
+    "id": 1096,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 92,
+    "input_tokens": 3574,
+    "output_tokens": 14
+  },
+  {
+    "id": 7060,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 92,
+    "input_tokens": 3416,
+    "output_tokens": 40
+  },
+  {
+    "id": 3681,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 92,
+    "input_tokens": 3773,
+    "output_tokens": 41
+  },
+  {
+    "id": 11051,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 92,
+    "input_tokens": 3288,
+    "output_tokens": 53
+  },
+  {
+    "id": 10261,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 92,
+    "input_tokens": 4298,
+    "output_tokens": 39
+  },
+  {
+    "id": 10130,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 93,
+    "input_tokens": 4847,
+    "output_tokens": 59
+  },
+  {
+    "id": 4965,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 93,
+    "input_tokens": 3771,
+    "output_tokens": 59
+  },
+  {
+    "id": 5351,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 93,
+    "input_tokens": 3924,
+    "output_tokens": 77
+  },
+  {
+    "id": 4963,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 93,
+    "input_tokens": 3615,
+    "output_tokens": 48
+  },
+  {
+    "id": 10829,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 93,
+    "input_tokens": 3470,
+    "output_tokens": 43
+  },
+  {
+    "id": 218,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 93,
+    "input_tokens": 3380,
+    "output_tokens": 84
+  },
+  {
+    "id": 2332,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 93,
+    "input_tokens": 3153,
+    "output_tokens": 42
+  },
+  {
+    "id": 245,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 93,
+    "input_tokens": 3209,
+    "output_tokens": 98
+  },
+  {
+    "id": 9459,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 94,
+    "input_tokens": 4147,
+    "output_tokens": 54
+  },
+  {
+    "id": 7793,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 94,
+    "input_tokens": 3638,
+    "output_tokens": 37
+  },
+  {
+    "id": 541,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 94,
+    "input_tokens": 3336,
+    "output_tokens": 34
+  },
+  {
+    "id": 9392,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 94,
+    "input_tokens": 3571,
+    "output_tokens": 7
+  },
+  {
+    "id": 1380,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 94,
+    "input_tokens": 5733,
+    "output_tokens": 63
+  },
+  {
+    "id": 9376,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 94,
+    "input_tokens": 3767,
+    "output_tokens": 63
+  },
+  {
+    "id": 5510,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 94,
+    "input_tokens": 3764,
+    "output_tokens": 42
+  },
+  {
+    "id": 10672,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 94,
+    "input_tokens": 3749,
+    "output_tokens": 107
+  },
+  {
+    "id": 7128,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 95,
+    "input_tokens": 3199,
+    "output_tokens": 57
+  },
+  {
+    "id": 6065,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 95,
+    "input_tokens": 3326,
+    "output_tokens": 52
+  },
+  {
+    "id": 8711,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 95,
+    "input_tokens": 4283,
+    "output_tokens": 66
+  },
+  {
+    "id": 3646,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 95,
+    "input_tokens": 3544,
+    "output_tokens": 56
+  },
+  {
+    "id": 10730,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 95,
+    "input_tokens": 5794,
+    "output_tokens": 72
+  },
+  {
+    "id": 3840,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 95,
+    "input_tokens": 4361,
+    "output_tokens": 54
+  },
+  {
+    "id": 4584,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 95,
+    "input_tokens": 3269,
+    "output_tokens": 64
+  },
+  {
+    "id": 4979,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 95,
+    "input_tokens": 6417,
+    "output_tokens": 70
+  },
+  {
+    "id": 9065,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 96,
+    "input_tokens": 6877,
+    "output_tokens": 91
+  },
+  {
+    "id": 3149,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 96,
+    "input_tokens": 3357,
+    "output_tokens": 83
+  },
+  {
+    "id": 3934,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 96,
+    "input_tokens": 4229,
+    "output_tokens": 42
+  },
+  {
+    "id": 4929,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 96,
+    "input_tokens": 4738,
+    "output_tokens": 105
+  },
+  {
+    "id": 10385,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 96,
+    "input_tokens": 5038,
+    "output_tokens": 44
+  },
+  {
+    "id": 7626,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 96,
+    "input_tokens": 3663,
+    "output_tokens": 43
+  },
+  {
+    "id": 4709,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 96,
+    "input_tokens": 5619,
+    "output_tokens": 70
+  },
+  {
+    "id": 8409,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 96,
+    "input_tokens": 3868,
+    "output_tokens": 106
+  },
+  {
+    "id": 1285,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 97,
+    "input_tokens": 4815,
+    "output_tokens": 53
+  },
+  {
+    "id": 455,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 97,
+    "input_tokens": 3227,
+    "output_tokens": 13
+  },
+  {
+    "id": 8759,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 97,
+    "input_tokens": 3109,
+    "output_tokens": 38
+  },
+  {
+    "id": 3388,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 97,
+    "input_tokens": 5764,
+    "output_tokens": 61
+  },
+  {
+    "id": 3077,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 97,
+    "input_tokens": 3406,
+    "output_tokens": 57
+  },
+  {
+    "id": 7669,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 97,
+    "input_tokens": 3277,
+    "output_tokens": 59
+  },
+  {
+    "id": 11202,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 97,
+    "input_tokens": 3586,
+    "output_tokens": 53
+  },
+  {
+    "id": 9243,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 97,
+    "input_tokens": 4777,
+    "output_tokens": 67
+  },
+  {
+    "id": 10442,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 98,
+    "input_tokens": 3662,
+    "output_tokens": 44
+  },
+  {
+    "id": 5227,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 98,
+    "input_tokens": 5642,
+    "output_tokens": 48
+  },
+  {
+    "id": 11288,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 98,
+    "input_tokens": 5504,
+    "output_tokens": 74
+  },
+  {
+    "id": 958,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 98,
+    "input_tokens": 3754,
+    "output_tokens": 57
+  },
+  {
+    "id": 676,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 98,
+    "input_tokens": 3390,
+    "output_tokens": 49
+  },
+  {
+    "id": 1595,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 98,
+    "input_tokens": 5547,
+    "output_tokens": 51
+  },
+  {
+    "id": 8555,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 98,
+    "input_tokens": 3576,
+    "output_tokens": 81
+  },
+  {
+    "id": 1222,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 98,
+    "input_tokens": 3359,
+    "output_tokens": 81
+  },
+  {
+    "id": 7158,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 99,
+    "input_tokens": 3181,
+    "output_tokens": 39
+  },
+  {
+    "id": 8644,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 99,
+    "input_tokens": 3439,
+    "output_tokens": 63
+  },
+  {
+    "id": 8953,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 99,
+    "input_tokens": 3607,
+    "output_tokens": 53
+  },
+  {
+    "id": 1538,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 99,
+    "input_tokens": 3690,
+    "output_tokens": 80
+  },
+  {
+    "id": 3151,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 99,
+    "input_tokens": 3437,
+    "output_tokens": 48
+  },
+  {
+    "id": 3404,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 99,
+    "input_tokens": 3331,
+    "output_tokens": 52
+  },
+  {
+    "id": 1918,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 99,
+    "input_tokens": 4375,
+    "output_tokens": 47
+  },
+  {
+    "id": 327,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 99,
+    "input_tokens": 5657,
+    "output_tokens": 76
+  },
+  {
+    "id": 6955,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 100,
+    "input_tokens": 4117,
+    "output_tokens": 43
+  },
+  {
+    "id": 5749,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 100,
+    "input_tokens": 5093,
+    "output_tokens": 46
+  },
+  {
+    "id": 5382,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 100,
+    "input_tokens": 3717,
+    "output_tokens": 53
+  },
+  {
+    "id": 10337,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 100,
+    "input_tokens": 6255,
+    "output_tokens": 54
+  },
+  {
+    "id": 239,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 100,
+    "input_tokens": 3759,
+    "output_tokens": 42
+  },
+  {
+    "id": 9568,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 100,
+    "input_tokens": 3117,
+    "output_tokens": 32
+  },
+  {
+    "id": 1996,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 100,
+    "input_tokens": 5755,
+    "output_tokens": 50
+  },
+  {
+    "id": 1400,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 100,
+    "input_tokens": 3660,
+    "output_tokens": 64
+  },
+  {
+    "id": 7504,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 101,
+    "input_tokens": 3368,
+    "output_tokens": 51
+  },
+  {
+    "id": 463,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 101,
+    "input_tokens": 3892,
+    "output_tokens": 51
+  },
+  {
+    "id": 4211,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 101,
+    "input_tokens": 4086,
+    "output_tokens": 56
+  },
+  {
+    "id": 6895,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 101,
+    "input_tokens": 3175,
+    "output_tokens": 47
+  },
+  {
+    "id": 355,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 101,
+    "input_tokens": 5182,
+    "output_tokens": 53
+  },
+  {
+    "id": 1665,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 101,
+    "input_tokens": 4250,
+    "output_tokens": 52
+  },
+  {
+    "id": 3889,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 101,
+    "input_tokens": 3407,
+    "output_tokens": 60
+  },
+  {
+    "id": 2226,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 101,
+    "input_tokens": 4465,
+    "output_tokens": 86
+  },
+  {
+    "id": 8845,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 102,
+    "input_tokens": 3284,
+    "output_tokens": 33
+  },
+  {
+    "id": 4737,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 102,
+    "input_tokens": 3730,
+    "output_tokens": 49
+  },
+  {
+    "id": 2070,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 102,
+    "input_tokens": 3311,
+    "output_tokens": 53
+  },
+  {
+    "id": 10664,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 102,
+    "input_tokens": 4203,
+    "output_tokens": 52
+  },
+  {
+    "id": 2790,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 102,
+    "input_tokens": 3257,
+    "output_tokens": 58
+  },
+  {
+    "id": 1670,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 102,
+    "input_tokens": 4697,
+    "output_tokens": 64
+  },
+  {
+    "id": 3898,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 102,
+    "input_tokens": 3576,
+    "output_tokens": 39
+  },
+  {
+    "id": 9340,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 102,
+    "input_tokens": 4991,
+    "output_tokens": 55
+  },
+  {
+    "id": 82,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 103,
+    "input_tokens": 4901,
+    "output_tokens": 57
+  },
+  {
+    "id": 6079,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 103,
+    "input_tokens": 6176,
+    "output_tokens": 54
+  },
+  {
+    "id": 7799,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 103,
+    "input_tokens": 3291,
+    "output_tokens": 42
+  },
+  {
+    "id": 5841,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 103,
+    "input_tokens": 5758,
+    "output_tokens": 79
+  },
+  {
+    "id": 3353,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 103,
+    "input_tokens": 3382,
+    "output_tokens": 41
+  },
+  {
+    "id": 4420,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 103,
+    "input_tokens": 5757,
+    "output_tokens": 53
+  },
+  {
+    "id": 5693,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 103,
+    "input_tokens": 4126,
+    "output_tokens": 62
+  },
+  {
+    "id": 8238,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 103,
+    "input_tokens": 3600,
+    "output_tokens": 54
+  },
+  {
+    "id": 3058,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 104,
+    "input_tokens": 4824,
+    "output_tokens": 59
+  },
+  {
+    "id": 1217,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 104,
+    "input_tokens": 3172,
+    "output_tokens": 44
+  },
+  {
+    "id": 6776,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 104,
+    "input_tokens": 5508,
+    "output_tokens": 43
+  },
+  {
+    "id": 11100,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 104,
+    "input_tokens": 4438,
+    "output_tokens": 40
+  },
+  {
+    "id": 2312,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 104,
+    "input_tokens": 3384,
+    "output_tokens": 53
+  },
+  {
+    "id": 3561,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 104,
+    "input_tokens": 4413,
+    "output_tokens": 60
+  },
+  {
+    "id": 4482,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 104,
+    "input_tokens": 4031,
+    "output_tokens": 54
+  },
+  {
+    "id": 7462,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 104,
+    "input_tokens": 3962,
+    "output_tokens": 49
+  },
+  {
+    "id": 7584,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 105,
+    "input_tokens": 4450,
+    "output_tokens": 46
+  },
+  {
+    "id": 7374,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 105,
+    "input_tokens": 3255,
+    "output_tokens": 45
+  },
+  {
+    "id": 7662,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 105,
+    "input_tokens": 3400,
+    "output_tokens": 60
+  },
+  {
+    "id": 9514,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 105,
+    "input_tokens": 3322,
+    "output_tokens": 55
+  },
+  {
+    "id": 1246,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 105,
+    "input_tokens": 3709,
+    "output_tokens": 59
+  },
+  {
+    "id": 1872,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 105,
+    "input_tokens": 3971,
+    "output_tokens": 64
+  },
+  {
+    "id": 4686,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 105,
+    "input_tokens": 7323,
+    "output_tokens": 78
+  },
+  {
+    "id": 8383,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 105,
+    "input_tokens": 3710,
+    "output_tokens": 65
+  },
+  {
+    "id": 4923,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 106,
+    "input_tokens": 5068,
+    "output_tokens": 54
+  },
+  {
+    "id": 4654,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 106,
+    "input_tokens": 3123,
+    "output_tokens": 55
+  },
+  {
+    "id": 3457,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 106,
+    "input_tokens": 5981,
+    "output_tokens": 63
+  },
+  {
+    "id": 451,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 106,
+    "input_tokens": 5838,
+    "output_tokens": 52
+  },
+  {
+    "id": 6347,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 106,
+    "input_tokens": 4083,
+    "output_tokens": 61
+  },
+  {
+    "id": 5863,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 106,
+    "input_tokens": 3256,
+    "output_tokens": 54
+  },
+  {
+    "id": 1542,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 106,
+    "input_tokens": 5243,
+    "output_tokens": 57
+  },
+  {
+    "id": 422,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 106,
+    "input_tokens": 4774,
+    "output_tokens": 50
+  },
+  {
+    "id": 4187,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 107,
+    "input_tokens": 3871,
+    "output_tokens": 62
+  },
+  {
+    "id": 1311,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 107,
+    "input_tokens": 3243,
+    "output_tokens": 49
+  },
+  {
+    "id": 7655,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 107,
+    "input_tokens": 5960,
+    "output_tokens": 67
+  },
+  {
+    "id": 4496,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 107,
+    "input_tokens": 3479,
+    "output_tokens": 50
+  },
+  {
+    "id": 10301,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 107,
+    "input_tokens": 3728,
+    "output_tokens": 57
+  },
+  {
+    "id": 5073,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 107,
+    "input_tokens": 4127,
+    "output_tokens": 48
+  },
+  {
+    "id": 2820,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 107,
+    "input_tokens": 4354,
+    "output_tokens": 65
+  },
+  {
+    "id": 4220,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 107,
+    "input_tokens": 4097,
+    "output_tokens": 62
+  },
+  {
+    "id": 9259,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 108,
+    "input_tokens": 4008,
+    "output_tokens": 52
+  },
+  {
+    "id": 408,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 108,
+    "input_tokens": 3919,
+    "output_tokens": 53
+  },
+  {
+    "id": 6384,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 108,
+    "input_tokens": 3514,
+    "output_tokens": 29
+  },
+  {
+    "id": 725,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 108,
+    "input_tokens": 3820,
+    "output_tokens": 57
+  },
+  {
+    "id": 7197,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 108,
+    "input_tokens": 5084,
+    "output_tokens": 58
+  },
+  {
+    "id": 10630,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 108,
+    "input_tokens": 5103,
+    "output_tokens": 57
+  },
+  {
+    "id": 4490,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 108,
+    "input_tokens": 4603,
+    "output_tokens": 57
+  },
+  {
+    "id": 8514,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 108,
+    "input_tokens": 4712,
+    "output_tokens": 61
+  },
+  {
+    "id": 8855,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 109,
+    "input_tokens": 3690,
+    "output_tokens": 49
+  },
+  {
+    "id": 2865,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 109,
+    "input_tokens": 4679,
+    "output_tokens": 36
+  },
+  {
+    "id": 5221,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 109,
+    "input_tokens": 4429,
+    "output_tokens": 47
+  },
+  {
+    "id": 8634,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 109,
+    "input_tokens": 5335,
+    "output_tokens": 70
+  },
+  {
+    "id": 1980,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 109,
+    "input_tokens": 5408,
+    "output_tokens": 31
+  },
+  {
+    "id": 7731,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 109,
+    "input_tokens": 6018,
+    "output_tokens": 58
+  },
+  {
+    "id": 967,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 109,
+    "input_tokens": 3783,
+    "output_tokens": 59
+  },
+  {
+    "id": 5648,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 109,
+    "input_tokens": 4399,
+    "output_tokens": 51
+  },
+  {
+    "id": 277,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 110,
+    "input_tokens": 3811,
+    "output_tokens": 68
+  },
+  {
+    "id": 2257,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 110,
+    "input_tokens": 3435,
+    "output_tokens": 51
+  },
+  {
+    "id": 5567,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 110,
+    "input_tokens": 4511,
+    "output_tokens": 55
+  },
+  {
+    "id": 7724,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 110,
+    "input_tokens": 5106,
+    "output_tokens": 69
+  },
+  {
+    "id": 6772,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 110,
+    "input_tokens": 3340,
+    "output_tokens": 56
+  },
+  {
+    "id": 10687,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 110,
+    "input_tokens": 3673,
+    "output_tokens": 56
+  },
+  {
+    "id": 9746,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 110,
+    "input_tokens": 3853,
+    "output_tokens": 51
+  },
+  {
+    "id": 5946,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 110,
+    "input_tokens": 3311,
+    "output_tokens": 61
+  },
+  {
+    "id": 7749,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 111,
+    "input_tokens": 5868,
+    "output_tokens": 57
+  },
+  {
+    "id": 5772,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 111,
+    "input_tokens": 4105,
+    "output_tokens": 82
+  },
+  {
+    "id": 2349,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 111,
+    "input_tokens": 4672,
+    "output_tokens": 37
+  },
+  {
+    "id": 7634,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 111,
+    "input_tokens": 3520,
+    "output_tokens": 121
+  },
+  {
+    "id": 6679,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 111,
+    "input_tokens": 4296,
+    "output_tokens": 44
+  },
+  {
+    "id": 1187,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 111,
+    "input_tokens": 3690,
+    "output_tokens": 53
+  },
+  {
+    "id": 6674,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 111,
+    "input_tokens": 3624,
+    "output_tokens": 65
+  },
+  {
+    "id": 4733,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 111,
+    "input_tokens": 3478,
+    "output_tokens": 122
+  },
+  {
+    "id": 4232,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 112,
+    "input_tokens": 3705,
+    "output_tokens": 41
+  },
+  {
+    "id": 10668,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 112,
+    "input_tokens": 5168,
+    "output_tokens": 56
+  },
+  {
+    "id": 6232,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 112,
+    "input_tokens": 4047,
+    "output_tokens": 48
+  },
+  {
+    "id": 4486,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 112,
+    "input_tokens": 4300,
+    "output_tokens": 68
+  },
+  {
+    "id": 6891,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 112,
+    "input_tokens": 3511,
+    "output_tokens": 41
+  },
+  {
+    "id": 5499,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 112,
+    "input_tokens": 3893,
+    "output_tokens": 48
+  },
+  {
+    "id": 1013,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 112,
+    "input_tokens": 5501,
+    "output_tokens": 43
+  },
+  {
+    "id": 1223,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 112,
+    "input_tokens": 3403,
+    "output_tokens": 56
+  },
+  {
+    "id": 8753,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 113,
+    "input_tokens": 3850,
+    "output_tokens": 35
+  },
+  {
+    "id": 11229,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 113,
+    "input_tokens": 3737,
+    "output_tokens": 33
+  },
+  {
+    "id": 4724,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 113,
+    "input_tokens": 3811,
+    "output_tokens": 56
+  },
+  {
+    "id": 2821,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 113,
+    "input_tokens": 4422,
+    "output_tokens": 67
+  },
+  {
+    "id": 3494,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 113,
+    "input_tokens": 4908,
+    "output_tokens": 39
+  },
+  {
+    "id": 2224,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 113,
+    "input_tokens": 4314,
+    "output_tokens": 57
+  },
+  {
+    "id": 5592,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 113,
+    "input_tokens": 5545,
+    "output_tokens": 63
+  },
+  {
+    "id": 7451,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 113,
+    "input_tokens": 4057,
+    "output_tokens": 57
+  },
+  {
+    "id": 9544,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 114,
+    "input_tokens": 5046,
+    "output_tokens": 56
+  },
+  {
+    "id": 2137,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 114,
+    "input_tokens": 3539,
+    "output_tokens": 44
+  },
+  {
+    "id": 972,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 114,
+    "input_tokens": 4510,
+    "output_tokens": 37
+  },
+  {
+    "id": 1902,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 114,
+    "input_tokens": 4112,
+    "output_tokens": 56
+  },
+  {
+    "id": 6466,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 114,
+    "input_tokens": 3938,
+    "output_tokens": 42
+  },
+  {
+    "id": 2859,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 114,
+    "input_tokens": 3168,
+    "output_tokens": 48
+  },
+  {
+    "id": 5814,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 114,
+    "input_tokens": 4282,
+    "output_tokens": 39
+  },
+  {
+    "id": 7054,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 114,
+    "input_tokens": 3936,
+    "output_tokens": 72
+  },
+  {
+    "id": 2263,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 115,
+    "input_tokens": 3670,
+    "output_tokens": 50
+  },
+  {
+    "id": 8386,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 115,
+    "input_tokens": 3925,
+    "output_tokens": 58
+  },
+  {
+    "id": 3580,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 115,
+    "input_tokens": 3357,
+    "output_tokens": 47
+  },
+  {
+    "id": 2427,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 115,
+    "input_tokens": 3163,
+    "output_tokens": 30
+  },
+  {
+    "id": 3298,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 115,
+    "input_tokens": 3722,
+    "output_tokens": 63
+  },
+  {
+    "id": 10591,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 115,
+    "input_tokens": 4265,
+    "output_tokens": 57
+  },
+  {
+    "id": 994,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 115,
+    "input_tokens": 4400,
+    "output_tokens": 49
+  },
+  {
+    "id": 10453,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 115,
+    "input_tokens": 3787,
+    "output_tokens": 62
+  },
+  {
+    "id": 10779,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 116,
+    "input_tokens": 5836,
+    "output_tokens": 40
+  },
+  {
+    "id": 6707,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 116,
+    "input_tokens": 6535,
+    "output_tokens": 76
+  },
+  {
+    "id": 4658,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 116,
+    "input_tokens": 5153,
+    "output_tokens": 56
+  },
+  {
+    "id": 9321,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 116,
+    "input_tokens": 3579,
+    "output_tokens": 49
+  },
+  {
+    "id": 7816,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 116,
+    "input_tokens": 4313,
+    "output_tokens": 61
+  },
+  {
+    "id": 2744,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 116,
+    "input_tokens": 5194,
+    "output_tokens": 59
+  },
+  {
+    "id": 1413,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 116,
+    "input_tokens": 3562,
+    "output_tokens": 42
+  },
+  {
+    "id": 9312,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 116,
+    "input_tokens": 3523,
+    "output_tokens": 50
+  },
+  {
+    "id": 348,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 117,
+    "input_tokens": 3286,
+    "output_tokens": 43
+  },
+  {
+    "id": 2319,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 117,
+    "input_tokens": 3835,
+    "output_tokens": 53
+  },
+  {
+    "id": 3996,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 117,
+    "input_tokens": 3770,
+    "output_tokens": 51
+  },
+  {
+    "id": 5736,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 117,
+    "input_tokens": 3852,
+    "output_tokens": 48
+  },
+  {
+    "id": 5496,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 117,
+    "input_tokens": 3608,
+    "output_tokens": 59
+  },
+  {
+    "id": 3144,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 117,
+    "input_tokens": 3350,
+    "output_tokens": 34
+  },
+  {
+    "id": 7125,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 117,
+    "input_tokens": 3062,
+    "output_tokens": 44
+  },
+  {
+    "id": 9927,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 117,
+    "input_tokens": 5869,
+    "output_tokens": 47
+  },
+  {
+    "id": 2834,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 118,
+    "input_tokens": 3504,
+    "output_tokens": 49
+  },
+  {
+    "id": 1681,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 118,
+    "input_tokens": 3755,
+    "output_tokens": 66
+  },
+  {
+    "id": 6532,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 118,
+    "input_tokens": 5282,
+    "output_tokens": 44
+  },
+  {
+    "id": 2196,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 118,
+    "input_tokens": 4204,
+    "output_tokens": 47
+  },
+  {
+    "id": 5821,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 118,
+    "input_tokens": 3805,
+    "output_tokens": 61
+  },
+  {
+    "id": 1360,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 118,
+    "input_tokens": 3323,
+    "output_tokens": 66
+  },
+  {
+    "id": 3495,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 118,
+    "input_tokens": 3452,
+    "output_tokens": 33
+  },
+  {
+    "id": 9139,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 118,
+    "input_tokens": 5217,
+    "output_tokens": 54
+  },
+  {
+    "id": 2005,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 119,
+    "input_tokens": 3416,
+    "output_tokens": 39
+  },
+  {
+    "id": 1180,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 119,
+    "input_tokens": 3655,
+    "output_tokens": 45
+  },
+  {
+    "id": 1690,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 119,
+    "input_tokens": 3938,
+    "output_tokens": 65
+  },
+  {
+    "id": 1711,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 119,
+    "input_tokens": 5421,
+    "output_tokens": 49
+  },
+  {
+    "id": 3710,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 119,
+    "input_tokens": 3970,
+    "output_tokens": 81
+  },
+  {
+    "id": 4270,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 119,
+    "input_tokens": 3638,
+    "output_tokens": 25
+  },
+  {
+    "id": 2683,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 119,
+    "input_tokens": 3821,
+    "output_tokens": 74
+  },
+  {
+    "id": 952,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 119,
+    "input_tokens": 3760,
+    "output_tokens": 103
+  },
+  {
+    "id": 3472,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 120,
+    "input_tokens": 3262,
+    "output_tokens": 47
+  },
+  {
+    "id": 7521,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 120,
+    "input_tokens": 4133,
+    "output_tokens": 40
+  },
+  {
+    "id": 1674,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 120,
+    "input_tokens": 3514,
+    "output_tokens": 55
+  },
+  {
+    "id": 5500,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 120,
+    "input_tokens": 3621,
+    "output_tokens": 59
+  },
+  {
+    "id": 4692,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 120,
+    "input_tokens": 5454,
+    "output_tokens": 68
+  },
+  {
+    "id": 7304,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 120,
+    "input_tokens": 5187,
+    "output_tokens": 57
+  },
+  {
+    "id": 9657,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 120,
+    "input_tokens": 4866,
+    "output_tokens": 70
+  },
+  {
+    "id": 11121,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 120,
+    "input_tokens": 4849,
+    "output_tokens": 67
+  },
+  {
+    "id": 10188,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 121,
+    "input_tokens": 3315,
+    "output_tokens": 57
+  },
+  {
+    "id": 5323,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 121,
+    "input_tokens": 3904,
+    "output_tokens": 41
+  },
+  {
+    "id": 2970,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 121,
+    "input_tokens": 3613,
+    "output_tokens": 54
+  },
+  {
+    "id": 2441,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 121,
+    "input_tokens": 4181,
+    "output_tokens": 59
+  },
+  {
+    "id": 799,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 121,
+    "input_tokens": 3553,
+    "output_tokens": 57
+  },
+  {
+    "id": 279,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 121,
+    "input_tokens": 3870,
+    "output_tokens": 61
+  },
+  {
+    "id": 9434,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 121,
+    "input_tokens": 4492,
+    "output_tokens": 57
+  },
+  {
+    "id": 8601,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 121,
+    "input_tokens": 4873,
+    "output_tokens": 45
+  },
+  {
+    "id": 9128,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 122,
+    "input_tokens": 5002,
+    "output_tokens": 42
+  },
+  {
+    "id": 3631,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 122,
+    "input_tokens": 4814,
+    "output_tokens": 58
+  },
+  {
+    "id": 1535,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 122,
+    "input_tokens": 5159,
+    "output_tokens": 73
+  },
+  {
+    "id": 4540,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 122,
+    "input_tokens": 3774,
+    "output_tokens": 49
+  },
+  {
+    "id": 4274,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 122,
+    "input_tokens": 3551,
+    "output_tokens": 39
+  },
+  {
+    "id": 9928,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 122,
+    "input_tokens": 6600,
+    "output_tokens": 50
+  },
+  {
+    "id": 10695,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 122,
+    "input_tokens": 5208,
+    "output_tokens": 51
+  },
+  {
+    "id": 3945,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 122,
+    "input_tokens": 3405,
+    "output_tokens": 70
+  },
+  {
+    "id": 4962,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 123,
+    "input_tokens": 3558,
+    "output_tokens": 45
+  },
+  {
+    "id": 121,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 123,
+    "input_tokens": 5097,
+    "output_tokens": 57
+  },
+  {
+    "id": 11279,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 123,
+    "input_tokens": 3944,
+    "output_tokens": 70
+  },
+  {
+    "id": 5762,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 123,
+    "input_tokens": 5543,
+    "output_tokens": 72
+  },
+  {
+    "id": 7980,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 123,
+    "input_tokens": 3087,
+    "output_tokens": 46
+  },
+  {
+    "id": 3886,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 123,
+    "input_tokens": 3627,
+    "output_tokens": 54
+  },
+  {
+    "id": 332,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 123,
+    "input_tokens": 4387,
+    "output_tokens": 75
+  },
+  {
+    "id": 4455,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 123,
+    "input_tokens": 3858,
+    "output_tokens": 42
+  },
+  {
+    "id": 6761,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 124,
+    "input_tokens": 3199,
+    "output_tokens": 44
+  },
+  {
+    "id": 1740,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 124,
+    "input_tokens": 3276,
+    "output_tokens": 52
+  },
+  {
+    "id": 1622,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 124,
+    "input_tokens": 3266,
+    "output_tokens": 58
+  },
+  {
+    "id": 3,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 124,
+    "input_tokens": 3413,
+    "output_tokens": 56
+  },
+  {
+    "id": 9843,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 124,
+    "input_tokens": 5055,
+    "output_tokens": 62
+  },
+  {
+    "id": 5977,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 124,
+    "input_tokens": 3851,
+    "output_tokens": 58
+  },
+  {
+    "id": 4353,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 124,
+    "input_tokens": 3983,
+    "output_tokens": 44
+  },
+  {
+    "id": 5082,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 124,
+    "input_tokens": 4560,
+    "output_tokens": 68
+  },
+  {
+    "id": 312,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 125,
+    "input_tokens": 5260,
+    "output_tokens": 46
+  },
+  {
+    "id": 685,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 125,
+    "input_tokens": 3233,
+    "output_tokens": 28
+  },
+  {
+    "id": 5046,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 125,
+    "input_tokens": 5844,
+    "output_tokens": 56
+  },
+  {
+    "id": 10114,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 125,
+    "input_tokens": 4284,
+    "output_tokens": 83
+  },
+  {
+    "id": 1520,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 125,
+    "input_tokens": 3128,
+    "output_tokens": 43
+  },
+  {
+    "id": 11238,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 125,
+    "input_tokens": 4843,
+    "output_tokens": 67
+  },
+  {
+    "id": 8174,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 125,
+    "input_tokens": 4553,
+    "output_tokens": 73
+  },
+  {
+    "id": 4534,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 125,
+    "input_tokens": 4079,
+    "output_tokens": 52
+  },
+  {
+    "id": 1136,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 126,
+    "input_tokens": 3556,
+    "output_tokens": 47
+  },
+  {
+    "id": 8388,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 126,
+    "input_tokens": 4240,
+    "output_tokens": 48
+  },
+  {
+    "id": 5425,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 126,
+    "input_tokens": 3632,
+    "output_tokens": 44
+  },
+  {
+    "id": 5493,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 126,
+    "input_tokens": 3396,
+    "output_tokens": 102
+  },
+  {
+    "id": 1206,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 126,
+    "input_tokens": 3737,
+    "output_tokens": 65
+  },
+  {
+    "id": 1666,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 126,
+    "input_tokens": 4318,
+    "output_tokens": 58
+  },
+  {
+    "id": 8849,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 126,
+    "input_tokens": 3411,
+    "output_tokens": 36
+  },
+  {
+    "id": 32,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 126,
+    "input_tokens": 3622,
+    "output_tokens": 86
+  },
+  {
+    "id": 3662,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 127,
+    "input_tokens": 4249,
+    "output_tokens": 62
+  },
+  {
+    "id": 5432,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 127,
+    "input_tokens": 3727,
+    "output_tokens": 49
+  },
+  {
+    "id": 433,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 127,
+    "input_tokens": 5152,
+    "output_tokens": 64
+  },
+  {
+    "id": 8654,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 127,
+    "input_tokens": 3272,
+    "output_tokens": 33
+  },
+  {
+    "id": 10595,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 127,
+    "input_tokens": 4402,
+    "output_tokens": 73
+  },
+  {
+    "id": 4667,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 127,
+    "input_tokens": 5072,
+    "output_tokens": 61
+  },
+  {
+    "id": 11284,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 127,
+    "input_tokens": 4194,
+    "output_tokens": 59
+  },
+  {
+    "id": 10310,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 127,
+    "input_tokens": 3151,
+    "output_tokens": 60
+  },
+  {
+    "id": 11018,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 128,
+    "input_tokens": 3711,
+    "output_tokens": 49
+  },
+  {
+    "id": 4722,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 128,
+    "input_tokens": 3528,
+    "output_tokens": 41
+  },
+  {
+    "id": 7997,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 128,
+    "input_tokens": 4675,
+    "output_tokens": 39
+  },
+  {
+    "id": 4048,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 128,
+    "input_tokens": 3714,
+    "output_tokens": 106
+  },
+  {
+    "id": 8808,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 128,
+    "input_tokens": 4241,
+    "output_tokens": 62
+  },
+  {
+    "id": 5077,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 128,
+    "input_tokens": 4329,
+    "output_tokens": 59
+  },
+  {
+    "id": 9758,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 128,
+    "input_tokens": 3470,
+    "output_tokens": 49
+  },
+  {
+    "id": 8025,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 128,
+    "input_tokens": 3477,
+    "output_tokens": 58
+  },
+  {
+    "id": 4081,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 129,
+    "input_tokens": 3896,
+    "output_tokens": 49
+  },
+  {
+    "id": 9845,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 129,
+    "input_tokens": 5168,
+    "output_tokens": 62
+  },
+  {
+    "id": 6759,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 129,
+    "input_tokens": 6748,
+    "output_tokens": 65
+  },
+  {
+    "id": 9044,
+    "model_used": "glm-5.3-flash",
+    "source_run": "final_v2",
+    "charge_id": 129,
+    "input_tokens": 445,
+    "output_tokens": 142
+  },
+  {
+    "id": 4284,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 129,
+    "input_tokens": 4393,
+    "output_tokens": 97
+  },
+  {
+    "id": 7595,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 129,
+    "input_tokens": 5346,
+    "output_tokens": 33
+  },
+  {
+    "id": 5929,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 129,
+    "input_tokens": 5297,
+    "output_tokens": 55
+  },
+  {
+    "id": 11359,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 129,
+    "input_tokens": 3202,
+    "output_tokens": 27
+  },
+  {
+    "id": 4345,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 131,
+    "input_tokens": 3260,
+    "output_tokens": 46
+  },
+  {
+    "id": 5327,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 131,
+    "input_tokens": 3471,
+    "output_tokens": 56
+  },
+  {
+    "id": 9853,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 131,
+    "input_tokens": 7065,
+    "output_tokens": 81
+  },
+  {
+    "id": 2215,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 131,
+    "input_tokens": 4986,
+    "output_tokens": 41
+  },
+  {
+    "id": 6863,
+    "model_used": "glm-5.3-flash",
+    "source_run": "final_v2",
+    "charge_id": 131,
+    "input_tokens": 830,
+    "output_tokens": 101
+  },
+  {
+    "id": 6802,
+    "model_used": "glm-5.3-flash",
+    "source_run": "final_v2",
+    "charge_id": 131,
+    "input_tokens": 1081,
+    "output_tokens": 71
+  },
+  {
+    "id": 3707,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 131,
+    "input_tokens": 5239,
+    "output_tokens": 50
+  },
+  {
+    "id": 10318,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 131,
+    "input_tokens": 6666,
+    "output_tokens": 49
+  },
+  {
+    "id": 11300,
+    "model_used": "glm-5.3-flash",
+    "source_run": "final_v2",
+    "charge_id": 134,
+    "input_tokens": 1026,
+    "output_tokens": 211
+  },
+  {
+    "id": 8760,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 134,
+    "input_tokens": 3159,
+    "output_tokens": 48
+  },
+  {
+    "id": 2425,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 134,
+    "input_tokens": 5005,
+    "output_tokens": 58
+  },
+  {
+    "id": 7300,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 134,
+    "input_tokens": 5020,
+    "output_tokens": 57
+  },
+  {
+    "id": 10150,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 134,
+    "input_tokens": 3526,
+    "output_tokens": 53
+  },
+  {
+    "id": 4618,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 134,
+    "input_tokens": 4087,
+    "output_tokens": 50
+  },
+  {
+    "id": 8878,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 134,
+    "input_tokens": 3689,
+    "output_tokens": 47
+  },
+  {
+    "id": 9844,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 134,
+    "input_tokens": 5104,
+    "output_tokens": 105
+  },
+  {
+    "id": 9879,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 136,
+    "input_tokens": 4520,
+    "output_tokens": 45
+  },
+  {
+    "id": 5887,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 136,
+    "input_tokens": 5225,
+    "output_tokens": 42
+  },
+  {
+    "id": 10810,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 136,
+    "input_tokens": 3137,
+    "output_tokens": 79
+  },
+  {
+    "id": 8613,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 136,
+    "input_tokens": 4751,
+    "output_tokens": 59
+  },
+  {
+    "id": 1214,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 136,
+    "input_tokens": 4888,
+    "output_tokens": 56
+  },
+  {
+    "id": 11068,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 136,
+    "input_tokens": 4379,
+    "output_tokens": 63
+  },
+  {
+    "id": 877,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 136,
+    "input_tokens": 3765,
+    "output_tokens": 53
+  },
+  {
+    "id": 1466,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 136,
+    "input_tokens": 3789,
+    "output_tokens": 210
+  },
+  {
+    "id": 9147,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 137,
+    "input_tokens": 3675,
+    "output_tokens": 57
+  },
+  {
+    "id": 6905,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 137,
+    "input_tokens": 3709,
+    "output_tokens": 50
+  },
+  {
+    "id": 2649,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 137,
+    "input_tokens": 3693,
+    "output_tokens": 70
+  },
+  {
+    "id": 2388,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 137,
+    "input_tokens": 4194,
+    "output_tokens": 56
+  },
+  {
+    "id": 1781,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 137,
+    "input_tokens": 4445,
+    "output_tokens": 53
+  },
+  {
+    "id": 918,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 137,
+    "input_tokens": 3427,
+    "output_tokens": 61
+  },
+  {
+    "id": 10896,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 137,
+    "input_tokens": 3151,
+    "output_tokens": 77
+  },
+  {
+    "id": 8199,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 137,
+    "input_tokens": 3932,
+    "output_tokens": 89
+  },
+  {
+    "id": 9041,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 138,
+    "input_tokens": 3745,
+    "output_tokens": 59
+  },
+  {
+    "id": 8888,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 138,
+    "input_tokens": 5084,
+    "output_tokens": 47
+  },
+  {
+    "id": 3312,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 138,
+    "input_tokens": 3810,
+    "output_tokens": 58
+  },
+  {
+    "id": 1452,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 138,
+    "input_tokens": 3206,
+    "output_tokens": 89
+  },
+  {
+    "id": 5080,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 138,
+    "input_tokens": 5943,
+    "output_tokens": 59
+  },
+  {
+    "id": 3027,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 138,
+    "input_tokens": 3494,
+    "output_tokens": 57
+  },
+  {
+    "id": 1265,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 138,
+    "input_tokens": 3525,
+    "output_tokens": 62
+  },
+  {
+    "id": 4706,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 138,
+    "input_tokens": 3832,
+    "output_tokens": 60
+  },
+  {
+    "id": 10622,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 139,
+    "input_tokens": 4273,
+    "output_tokens": 49
+  },
+  {
+    "id": 4243,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 139,
+    "input_tokens": 4600,
+    "output_tokens": 53
+  },
+  {
+    "id": 4368,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 139,
+    "input_tokens": 3338,
+    "output_tokens": 59
+  },
+  {
+    "id": 2495,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 139,
+    "input_tokens": 5601,
+    "output_tokens": 57
+  },
+  {
+    "id": 8553,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 139,
+    "input_tokens": 3508,
+    "output_tokens": 39
+  },
+  {
+    "id": 9531,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 139,
+    "input_tokens": 4840,
+    "output_tokens": 50
+  },
+  {
+    "id": 7280,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 139,
+    "input_tokens": 4753,
+    "output_tokens": 56
+  },
+  {
+    "id": 3517,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 139,
+    "input_tokens": 3258,
+    "output_tokens": 51
+  },
+  {
+    "id": 4467,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 140,
+    "input_tokens": 3451,
+    "output_tokens": 43
+  },
+  {
+    "id": 6488,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 140,
+    "input_tokens": 4231,
+    "output_tokens": 49
+  },
+  {
+    "id": 6129,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "final_v2",
+    "charge_id": 140,
+    "input_tokens": 6271,
+    "output_tokens": 55
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "validation": {
+    "records": 571,
+    "bytes": 120453,
+    "unique_ids": 571
+  },
+  "sha256": "a317cd3e84aaf1fd72eb44324d1b68a23c40c2b2c82372667c33f35df7517ee7",
+  "length_chars": {
+    "min": 4,
+    "median": 55,
+    "mean": 54.36952714535902,
+    "max": 107
+  },
+  "histogram": {
+    "1-19": 7,
+    "20-49": 172,
+    "50-99": 390,
+    "100-199": 2,
+    "200+": 0
+  },
+  "heuristic_flags": [
+    {
+      "id": 6863,
+      "reasons": [
+        "possible_action_only"
+      ],
+      "model_output": "（漆黑的眸子盯着她，缓缓地摇了摇头）"
+    }
+  ],
+  "duplicate_answer_groups": [],
+  "note": "Heuristic flags identify review candidates, not proven errors or CharacterRM scores."
+}

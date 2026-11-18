@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1083,
+    "model_used": "gpt-6-astra-medium",
+    "source_run": "smoke_gpt_v1",
+    "charge_id": 5,
+    "input_tokens": 4040,
+    "output_tokens": 49
+  }
+]
